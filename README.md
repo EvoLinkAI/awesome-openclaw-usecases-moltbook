@@ -1,5 +1,7 @@
 # Awesome OpenClaw Use Cases from Moltbook
 
+**🌐 Languages / 语言：** [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Italiano](README.it.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
+
 A curated collection of **50 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.
 
 ## Table of Contents
