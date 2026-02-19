@@ -2,7 +2,7 @@
 
 **🌐 Languages / 语言：** [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Italiano](README.it.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
-A curated collection of **50 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.
+A curated collection of **70 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.
 
 ## Table of Contents
 
@@ -13,6 +13,7 @@ A curated collection of **50 concrete, non-repeating use cases** for OpenClaw AI
 - [Data Analysis (11)](#data-analysis-11)
 - [Security Monitoring (7)](#security-monitoring-7)
 - [Tool Development (5)](#tool-development-5)
+- [Everyday Life (20)](#everyday-life-20)
 - [Contributing](#contributing)
 
 ---
@@ -128,6 +129,35 @@ Building reusable tools and interfaces.
 |---|----------|-------------|
 | 10 | [Personal CLI Toolkit](usecases/10-personal-cli-toolkit.md) | Custom commands for agent use |
 | 50 | [Multi-Channel Presence Sync](usecases/50-multi-channel-presence-sync.md) | Unified cross-platform identity |
+
+---
+
+## Everyday Life (20)
+
+Practical use cases anyone can set up — no coding or technical background required.
+
+| # | Use Case | Description |
+|---|----------|-------------|
+| 51 | [Email Newsletter to Podcast](usecases/51-email-to-podcast-commute.md) | Turn newsletters into audio for your commute |
+| 52 | [Daily Morning Briefing](usecases/52-morning-briefing-telegram.md) | Weather + calendar + news in one Telegram message |
+| 53 | [Instagram Story Manager](usecases/53-instagram-story-manager.md) | Auto-post stories and manage engagement |
+| 54 | [Cold Relationship Revival](usecases/54-cold-relationship-revival.md) | Reconnect with friends you've lost touch with |
+| 55 | [Smart Calendar Reminder](usecases/55-calendar-smart-reminder.md) | Context-aware reminders with prep suggestions |
+| 56 | [Email Auto-Sorter](usecases/56-email-auto-sorter.md) | Classify inbox by urgency automatically |
+| 57 | [Daily Learning Journal](usecases/57-daily-learning-journal.md) | Track personal growth with evening prompts |
+| 58 | [Weather Outfit Advisor](usecases/58-weather-outfit-advisor.md) | Daily outfit suggestions based on weather + calendar |
+| 59 | [News Digest Aggregator](usecases/59-news-digest-aggregator.md) | Multi-source news summary, zero duplicates |
+| 60 | [Life Memory Logger](usecases/60-memory-life-logger.md) | Never forget birthdays, preferences, or promises |
+| 61 | [Reading List Curator](usecases/61-reading-list-curator.md) | Save links all week, get a Friday digest |
+| 62 | [Smart Home via Telegram](usecases/62-smart-home-telegram.md) | Control lights, thermostat, locks by chat |
+| 63 | [Booking & Appointment Agent](usecases/63-booking-appointment-agent.md) | Actually book the plumber, not just find one |
+| 64 | [Social Media Monitor](usecases/64-social-media-monitor.md) | Track mentions and sentiment across platforms |
+| 65 | [Auto Social Media Posting](usecases/65-auto-social-posting.md) | Schedule and publish content automatically |
+| 66 | [Trello/Notion Organizer](usecases/66-trello-notion-organizer.md) | Nightly board cleanup and morning status report |
+| 67 | [Price Comparison Shopper](usecases/67-price-comparison-shopper.md) | Find the best deal across multiple stores |
+| 68 | [Meeting Notes Generator](usecases/68-meeting-notes-generator.md) | Paste raw notes, get structured minutes |
+| 69 | [Homework Tutor](usecases/69-homework-tutor.md) | Patient tutor for kids — guides, doesn't give answers |
+| 70 | [Travel Itinerary Planner](usecases/70-travel-itinerary-planner.md) | Complete day-by-day trip plan from one message |
 
 ---
 

@@ -1,6 +1,6 @@
 # 멋진 OpenClaw 사용 사례 - Moltbook에서
 
-Moltbook의 실제 구현에서 가져온 **50가지 구체적이고 중복되지 않는 OpenClaw AI 에이전트 사용 사례** 모음집입니다.
+Moltbook의 실제 구현에서 가져온 **70가지 구체적이고 중복되지 않는 OpenClaw AI 에이전트 사용 사례** 모음집입니다.
 
 ## 목차
 
@@ -128,6 +128,35 @@ Moltbook의 실제 구현에서 가져온 **50가지 구체적이고 중복되�
 | 50 | [멀티채널 프레즌스 동기화](usecases/50-multi-channel-presence-sync.md) | 통합된 크로스 플랫폼 ID |
 
 ---
+
+---
+
+## 일상생활 (20)
+
+누구나 설정할 수 있는 실용적인 사용 사례 — 코딩이나 기술 배경 불필요.
+
+| # | 사용 사례 | 설명 |
+|---|-----------|------|
+| 51 | [이메일 뉴스레터를 팟캐스트로](usecases/51-email-to-podcast-commute.md) | 출퇴근용 오디오로 변환 |
+| 52 | [매일 아침 브리핑](usecases/52-morning-briefing-telegram.md) | 날씨+일정+뉴스 한 메시지로 |
+| 53 | [Instagram 스토리 관리자](usecases/53-instagram-story-manager.md) | 스토리 자동 게시 및 참여 관리 |
+| 54 | [소원해진 관계 복구](usecases/54-cold-relationship-revival.md) | 연락이 끊긴 친구와 재연결 |
+| 55 | [스마트 캘린더 알림](usecases/55-calendar-smart-reminder.md) | 준비 제안이 포함된 알림 |
+| 56 | [이메일 자동 분류](usecases/56-email-auto-sorter.md) | 긴급도별 받은편지함 자동 분류 |
+| 57 | [매일 학습 일기](usecases/57-daily-learning-journal.md) | 저녁 질문으로 개인 성장 추적 |
+| 58 | [날씨 코디 조언](usecases/58-weather-outfit-advisor.md) | 날씨와 일정 기반 옷차림 제안 |
+| 59 | [뉴스 다이제스트](usecases/59-news-digest-aggregator.md) | 다중 소스 요약, 중복 없음 |
+| 60 | [생활 기억 로거](usecases/60-memory-life-logger.md) | 생일, 취향, 약속을 잊지 않기 |
+| 61 | [독서 목록 큐레이터](usecases/61-reading-list-curator.md) | 주중 링크 저장, 금요일 다이제스트 |
+| 62 | [Telegram 스마트홈](usecases/62-smart-home-telegram.md) | 채팅으로 조명, 온도, 잠금 제어 |
+| 63 | [예약 에이전트](usecases/63-booking-appointment-agent.md) | 찾기만 하지 않고 실제로 예약 |
+| 64 | [소셜 미디어 모니터](usecases/64-social-media-monitor.md) | 플랫폼 간 멘션 및 감성 추적 |
+| 65 | [자동 소셜 포스팅](usecases/65-auto-social-posting.md) | 콘텐츠 자동 예약 게시 |
+| 66 | [Trello/Notion 정리](usecases/66-trello-notion-organizer.md) | 야간 보드 정리 및 아침 상태 보고 |
+| 67 | [가격 비교 쇼퍼](usecases/67-price-comparison-shopper.md) | 여러 매장에서 최저가 찾기 |
+| 68 | [회의록 생성기](usecases/68-meeting-notes-generator.md) | 메모를 구조화된 회의록으로 변환 |
+| 69 | [숙제 튜터](usecases/69-homework-tutor.md) | 답을 주지 않고 안내하는 튜터 |
+| 70 | [여행 일정 플래너](usecases/70-travel-itinerary-planner.md) | 한 메시지로 완전한 여행 계획 |
 
 ## 기여하기
 

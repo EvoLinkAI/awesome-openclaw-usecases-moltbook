@@ -1,6 +1,6 @@
 # Awesome OpenClaw 用例 - 來自 Moltbook
 
-來自 Moltbook 的 **50 個具體、不重複的 OpenClaw AI 代理用例**精選集。
+來自 Moltbook 的 **70 個具體、不重複的 OpenClaw AI 代理用例**精選集。
 
 ## 目錄
 
@@ -128,6 +128,35 @@
 | 50 | [多渠道存在同步](usecases/50-multi-channel-presence-sync.md) | 統一的跨平台身份 |
 
 ---
+
+---
+
+## 日常生活 (20)
+
+任何人都能使用的實用案例 — 無需編程或技術背景。
+
+| # | 用例 | 描述 |
+|---|------|------|
+| 51 | [郵件通訊轉播客](usecases/51-email-to-podcast-commute.md) | 將通訊轉為通勤音頻 |
+| 52 | [每日晨間簡報](usecases/52-morning-briefing-telegram.md) | 天氣+日曆+新聞一條訊息搞定 |
+| 53 | [Instagram 故事管理](usecases/53-instagram-story-manager.md) | 自動發布故事並管理互動 |
+| 54 | [冷關係復活](usecases/54-cold-relationship-revival.md) | 重新聯繫失去聯繫的朋友 |
+| 55 | [智能日曆提醒](usecases/55-calendar-smart-reminder.md) | 帶準備建議的上下文提醒 |
+| 56 | [郵件自動分類](usecases/56-email-auto-sorter.md) | 按緊急程度自動分類收件匣 |
+| 57 | [每日學習日記](usecases/57-daily-learning-journal.md) | 晚間問答追蹤個人成長 |
+| 58 | [天氣穿衣建議](usecases/58-weather-outfit-advisor.md) | 基於天氣和日程的穿搭建議 |
+| 59 | [多源新聞摘要](usecases/59-news-digest-aggregator.md) | 多源匯總零重複 |
+| 60 | [生活記憶管理](usecases/60-memory-life-logger.md) | 不再忘記生日、偏好和承諾 |
+| 61 | [閱讀清單管理](usecases/61-reading-list-curator.md) | 整週保存連結週五獲取摘要 |
+| 62 | [Telegram 智慧家居](usecases/62-smart-home-telegram.md) | 聊天控制燈光溫度門鎖 |
+| 63 | [預約預訂助手](usecases/63-booking-appointment-agent.md) | 不只找服務還直接預約 |
+| 64 | [社交媒體監控](usecases/64-social-media-monitor.md) | 跨平台追蹤提及和情感 |
+| 65 | [自動社交發帖](usecases/65-auto-social-posting.md) | 自動排期發布內容 |
+| 66 | [Trello/Notion 整理](usecases/66-trello-notion-organizer.md) | 夜間清理看板晨間狀態報告 |
+| 67 | [購物比價助手](usecases/67-price-comparison-shopper.md) | 多平台找最優價格 |
+| 68 | [會議紀要生成](usecases/68-meeting-notes-generator.md) | 貼上原始筆記獲取結構化紀要 |
+| 69 | [作業輔導助手](usecases/69-homework-tutor.md) | 耐心輔導引導而非直接給答案 |
+| 70 | [旅行行程規劃](usecases/70-travel-itinerary-planner.md) | 一條訊息生成完整行程 |
 
 ## 貢獻
 
