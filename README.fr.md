@@ -25,6 +25,53 @@ Chaque cas d'utilisation comprend :
 
 ---
 
+## ⭐ Vie Quotidienne (20)
+
+Cas d'utilisation pratiques que n'importe qui peut mettre en place — aucune programmation ni compétence technique requise.
+
+| # | Cas d'Utilisation | Description |
+|---|-------------------|-------------|
+| 51 | [Newsletter Email en Podcast](usecases/51-email-to-podcast-commute.md) | Transformez les newsletters en audio |
+| 52 | [Briefing Matinal Quotidien](usecases/52-morning-briefing-telegram.md) | Météo+agenda+actualités en un message |
+| 53 | [Gestionnaire Stories Instagram](usecases/53-instagram-story-manager.md) | Publication automatique et gestion d engagement |
+| 54 | [Réactivation de Relations Froides](usecases/54-cold-relationship-revival.md) | Reconnectez-vous avec des amis perdus |
+| 55 | [Rappel Calendrier Intelligent](usecases/55-calendar-smart-reminder.md) | Rappels contextuels avec suggestions |
+| 56 | [Trieur d Email Automatique](usecases/56-email-auto-sorter.md) | Classez la boîte de réception par urgence |
+| 57 | [Journal d Apprentissage](usecases/57-daily-learning-journal.md) | Suivi de croissance personnelle |
+| 58 | [Conseiller Tenue Météo](usecases/58-weather-outfit-advisor.md) | Suggestions vestimentaires selon météo et agenda |
+| 59 | [Agrégateur d Actualités](usecases/59-news-digest-aggregator.md) | Résumé multi-sources sans doublons |
+| 60 | [Journal de Vie](usecases/60-memory-life-logger.md) | N oubliez plus anniversaires ni promesses |
+| 61 | [Curateur Liste de Lecture](usecases/61-reading-list-curator.md) | Sauvez des liens, recevez un digest vendredi |
+| 62 | [Maison Connectée via Telegram](usecases/62-smart-home-telegram.md) | Contrôlez lumières et thermostat par chat |
+| 63 | [Agent de Réservation](usecases/63-booking-appointment-agent.md) | Réservez vraiment, pas juste cherchez |
+| 64 | [Moniteur Réseaux Sociaux](usecases/64-social-media-monitor.md) | Suivi des mentions et du sentiment |
+| 65 | [Publication Sociale Automatique](usecases/65-auto-social-posting.md) | Programmez et publiez du contenu |
+| 66 | [Organisateur Trello/Notion](usecases/66-trello-notion-organizer.md) | Nettoyage nocturne des tableaux |
+| 67 | [Comparateur de Prix](usecases/67-price-comparison-shopper.md) | Trouvez le meilleur prix |
+| 68 | [Générateur de Comptes-Rendus](usecases/68-meeting-notes-generator.md) | Notes brutes en minutes structurées |
+| 69 | [Tuteur de Devoirs](usecases/69-homework-tutor.md) | Tuteur patient qui guide sans donner les réponses |
+| 70 | [Planificateur de Voyage](usecases/70-travel-itinerary-planner.md) | Itinéraire complet en un message |
+
+## Contribuer
+
+1. Copier [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
+2. Remplir toutes les sections
+3. Ajouter à la catégorie appropriée ci-dessus
+4. Soumettre une PR
+
+Critères :
+- **Concret** : Tâche spécifique, pas un concept général
+- **Non répétitif** : Différent des cas d'utilisation existants
+- **Actionnable** : Étapes de configuration claires
+- **Attribué** : Créditer la source originale
+
+## Licence
+
+MIT - Libre d'utilisation et de modification.
+
+
+---
+
 ## Conversion de Contenu (7)
 
 Transformer le contenu d'un format à un autre pour l'efficacité de consommation.
@@ -129,51 +176,6 @@ Construction d'outils et interfaces réutilisables.
 
 ---
 
----
-
-## Vie Quotidienne (20)
-
-Cas d'utilisation pratiques que n'importe qui peut mettre en place — aucune programmation ni compétence technique requise.
-
-| # | Cas d'Utilisation | Description |
-|---|-------------------|-------------|
-| 51 | [Newsletter Email en Podcast](usecases/51-email-to-podcast-commute.md) | Transformez les newsletters en audio |
-| 52 | [Briefing Matinal Quotidien](usecases/52-morning-briefing-telegram.md) | Météo+agenda+actualités en un message |
-| 53 | [Gestionnaire Stories Instagram](usecases/53-instagram-story-manager.md) | Publication automatique et gestion d engagement |
-| 54 | [Réactivation de Relations Froides](usecases/54-cold-relationship-revival.md) | Reconnectez-vous avec des amis perdus |
-| 55 | [Rappel Calendrier Intelligent](usecases/55-calendar-smart-reminder.md) | Rappels contextuels avec suggestions |
-| 56 | [Trieur d Email Automatique](usecases/56-email-auto-sorter.md) | Classez la boîte de réception par urgence |
-| 57 | [Journal d Apprentissage](usecases/57-daily-learning-journal.md) | Suivi de croissance personnelle |
-| 58 | [Conseiller Tenue Météo](usecases/58-weather-outfit-advisor.md) | Suggestions vestimentaires selon météo et agenda |
-| 59 | [Agrégateur d Actualités](usecases/59-news-digest-aggregator.md) | Résumé multi-sources sans doublons |
-| 60 | [Journal de Vie](usecases/60-memory-life-logger.md) | N oubliez plus anniversaires ni promesses |
-| 61 | [Curateur Liste de Lecture](usecases/61-reading-list-curator.md) | Sauvez des liens, recevez un digest vendredi |
-| 62 | [Maison Connectée via Telegram](usecases/62-smart-home-telegram.md) | Contrôlez lumières et thermostat par chat |
-| 63 | [Agent de Réservation](usecases/63-booking-appointment-agent.md) | Réservez vraiment, pas juste cherchez |
-| 64 | [Moniteur Réseaux Sociaux](usecases/64-social-media-monitor.md) | Suivi des mentions et du sentiment |
-| 65 | [Publication Sociale Automatique](usecases/65-auto-social-posting.md) | Programmez et publiez du contenu |
-| 66 | [Organisateur Trello/Notion](usecases/66-trello-notion-organizer.md) | Nettoyage nocturne des tableaux |
-| 67 | [Comparateur de Prix](usecases/67-price-comparison-shopper.md) | Trouvez le meilleur prix |
-| 68 | [Générateur de Comptes-Rendus](usecases/68-meeting-notes-generator.md) | Notes brutes en minutes structurées |
-| 69 | [Tuteur de Devoirs](usecases/69-homework-tutor.md) | Tuteur patient qui guide sans donner les réponses |
-| 70 | [Planificateur de Voyage](usecases/70-travel-itinerary-planner.md) | Itinéraire complet en un message |
-
-## Contribuer
-
-1. Copier [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
-2. Remplir toutes les sections
-3. Ajouter à la catégorie appropriée ci-dessus
-4. Soumettre une PR
-
-Critères :
-- **Concret** : Tâche spécifique, pas un concept général
-- **Non répétitif** : Différent des cas d'utilisation existants
-- **Actionnable** : Étapes de configuration claires
-- **Attribué** : Créditer la source originale
-
-## Licence
-
-MIT - Libre d'utilisation et de modification.
 
 ---
 

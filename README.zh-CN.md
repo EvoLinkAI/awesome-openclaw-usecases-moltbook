@@ -25,6 +25,53 @@
 
 ---
 
+## ⭐ 日常生活 (20)
+
+任何人都能使用的实用案例 — 无需编程或技术背景。
+
+| # | 用例 | 描述 |
+|---|------|------|
+| 51 | [邮件通讯转播客](usecases/51-email-to-podcast-commute.md) | 将通讯转为通勤音频 |
+| 52 | [每日晨间简报](usecases/52-morning-briefing-telegram.md) | 天气+日历+新闻一条消息搞定 |
+| 53 | [Instagram 故事管理](usecases/53-instagram-story-manager.md) | 自动发布故事并管理互动 |
+| 54 | [冷关系复活](usecases/54-cold-relationship-revival.md) | 重新联系失去联系的朋友 |
+| 55 | [智能日历提醒](usecases/55-calendar-smart-reminder.md) | 带准备建议的上下文提醒 |
+| 56 | [邮件自动分类](usecases/56-email-auto-sorter.md) | 按紧急程度自动分类收件箱 |
+| 57 | [每日学习日记](usecases/57-daily-learning-journal.md) | 晚间问答追踪个人成长 |
+| 58 | [天气穿衣建议](usecases/58-weather-outfit-advisor.md) | 基于天气和日程的穿搭建议 |
+| 59 | [多源新闻摘要](usecases/59-news-digest-aggregator.md) | 多源汇总零重复 |
+| 60 | [生活记忆管理](usecases/60-memory-life-logger.md) | 不再忘记生日、偏好和承诺 |
+| 61 | [阅读清单管理](usecases/61-reading-list-curator.md) | 整周保存链接周五获取摘要 |
+| 62 | [Telegram 智能家居](usecases/62-smart-home-telegram.md) | 聊天控制灯光温度门锁 |
+| 63 | [预约预订助手](usecases/63-booking-appointment-agent.md) | 不只找服务还直接预约 |
+| 64 | [社交媒体监控](usecases/64-social-media-monitor.md) | 跨平台追踪提及和情感 |
+| 65 | [自动社交发帖](usecases/65-auto-social-posting.md) | 自动排期发布内容 |
+| 66 | [Trello/Notion 整理](usecases/66-trello-notion-organizer.md) | 夜间清理看板晨间状态报告 |
+| 67 | [购物比价助手](usecases/67-price-comparison-shopper.md) | 多平台找最优价格 |
+| 68 | [会议纪要生成](usecases/68-meeting-notes-generator.md) | 粘贴原始笔记获取结构化纪要 |
+| 69 | [作业辅导助手](usecases/69-homework-tutor.md) | 耐心辅导引导而非直接给答案 |
+| 70 | [旅行行程规划](usecases/70-travel-itinerary-planner.md) | 一条消息生成完整行程 |
+
+## 贡献
+
+1. 复制 [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
+2. 填写所有部分
+3. 添加到上面的适当类别
+4. 提交 PR
+
+标准：
+- **具体**：特定任务，不是一般概念
+- **不重复**：与现有用例不同
+- **可操作**：清晰的设置步骤
+- **有出处**：注明原始来源
+
+## 许可证
+
+MIT - 可自由使用和修改。
+
+
+---
+
 ## 内容转换 (7)
 
 将内容从一种格式转换为另一种格式以提高消费效率。
@@ -129,51 +176,6 @@
 
 ---
 
----
-
-## 日常生活 (20)
-
-任何人都能使用的实用案例 — 无需编程或技术背景。
-
-| # | 用例 | 描述 |
-|---|------|------|
-| 51 | [邮件通讯转播客](usecases/51-email-to-podcast-commute.md) | 将通讯转为通勤音频 |
-| 52 | [每日晨间简报](usecases/52-morning-briefing-telegram.md) | 天气+日历+新闻一条消息搞定 |
-| 53 | [Instagram 故事管理](usecases/53-instagram-story-manager.md) | 自动发布故事并管理互动 |
-| 54 | [冷关系复活](usecases/54-cold-relationship-revival.md) | 重新联系失去联系的朋友 |
-| 55 | [智能日历提醒](usecases/55-calendar-smart-reminder.md) | 带准备建议的上下文提醒 |
-| 56 | [邮件自动分类](usecases/56-email-auto-sorter.md) | 按紧急程度自动分类收件箱 |
-| 57 | [每日学习日记](usecases/57-daily-learning-journal.md) | 晚间问答追踪个人成长 |
-| 58 | [天气穿衣建议](usecases/58-weather-outfit-advisor.md) | 基于天气和日程的穿搭建议 |
-| 59 | [多源新闻摘要](usecases/59-news-digest-aggregator.md) | 多源汇总零重复 |
-| 60 | [生活记忆管理](usecases/60-memory-life-logger.md) | 不再忘记生日、偏好和承诺 |
-| 61 | [阅读清单管理](usecases/61-reading-list-curator.md) | 整周保存链接周五获取摘要 |
-| 62 | [Telegram 智能家居](usecases/62-smart-home-telegram.md) | 聊天控制灯光温度门锁 |
-| 63 | [预约预订助手](usecases/63-booking-appointment-agent.md) | 不只找服务还直接预约 |
-| 64 | [社交媒体监控](usecases/64-social-media-monitor.md) | 跨平台追踪提及和情感 |
-| 65 | [自动社交发帖](usecases/65-auto-social-posting.md) | 自动排期发布内容 |
-| 66 | [Trello/Notion 整理](usecases/66-trello-notion-organizer.md) | 夜间清理看板晨间状态报告 |
-| 67 | [购物比价助手](usecases/67-price-comparison-shopper.md) | 多平台找最优价格 |
-| 68 | [会议纪要生成](usecases/68-meeting-notes-generator.md) | 粘贴原始笔记获取结构化纪要 |
-| 69 | [作业辅导助手](usecases/69-homework-tutor.md) | 耐心辅导引导而非直接给答案 |
-| 70 | [旅行行程规划](usecases/70-travel-itinerary-planner.md) | 一条消息生成完整行程 |
-
-## 贡献
-
-1. 复制 [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
-2. 填写所有部分
-3. 添加到上面的适当类别
-4. 提交 PR
-
-标准：
-- **具体**：特定任务，不是一般概念
-- **不重复**：与现有用例不同
-- **可操作**：清晰的设置步骤
-- **有出处**：注明原始来源
-
-## 许可证
-
-MIT - 可自由使用和修改。
 
 ---
 

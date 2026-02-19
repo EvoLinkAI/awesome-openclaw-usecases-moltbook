@@ -25,6 +25,53 @@ Her kullanım durumu şunları içerir:
 
 ---
 
+## ⭐ Günlük Yaşam (20)
+
+Herkesin kurabildiği pratik kullanım durumları — kodlama veya teknik bilgi gereksiz.
+
+| # | Kullanım Durumu | Açıklama |
+|---|-----------------|----------|
+| 51 | [E-posta Bülteninden Podcast'e](usecases/51-email-to-podcast-commute.md) | Bültenleri yolculuk için sese dönüştür |
+| 52 | [Günlük Sabah Özeti](usecases/52-morning-briefing-telegram.md) | Hava+takvim+haberler tek mesajda |
+| 53 | [Instagram Hikaye Yöneticisi](usecases/53-instagram-story-manager.md) | Hikayeleri otomatik paylaş ve etkileşimi yönet |
+| 54 | [Soğuyan İlişkileri Canlandırma](usecases/54-cold-relationship-revival.md) | Kayıp arkadaşlarla yeniden bağlan |
+| 55 | [Akıllı Takvim Hatırlatıcı](usecases/55-calendar-smart-reminder.md) | Hazırlık önerileriyle bağlamsal hatırlatmalar |
+| 56 | [Otomatik E-posta Sınıflandırıcı](usecases/56-email-auto-sorter.md) | Gelen kutusunu aciliyete göre sınıfla |
+| 57 | [Günlük Öğrenme Günlüğü](usecases/57-daily-learning-journal.md) | Akşam soruları ile kişisel gelişimi takip et |
+| 58 | [Hava Durumu Kıyafet Danışmanı](usecases/58-weather-outfit-advisor.md) | Hava ve programa göre giyim önerisi |
+| 59 | [Haber Özeti Toplayıcı](usecases/59-news-digest-aggregator.md) | Çok kaynaklı özet, sıfır tekrar |
+| 60 | [Yaşam Hafıza Kaydedici](usecases/60-memory-life-logger.md) | Doğum günlerini ve sözleri unutma |
+| 61 | [Okuma Listesi Küratörü](usecases/61-reading-list-curator.md) | Hafta boyunca link kaydet, Cuma özet al |
+| 62 | [Telegram Akıllı Ev](usecases/62-smart-home-telegram.md) | Sohbetle ışık, sıcaklık, kilit kontrolü |
+| 63 | [Rezervasyon Ajanı](usecases/63-booking-appointment-agent.md) | Sadece bulmak değil, gerçekten rezerve et |
+| 64 | [Sosyal Medya Monitörü](usecases/64-social-media-monitor.md) | Platformlar arası bahsetmeleri takip et |
+| 65 | [Otomatik Sosyal Paylaşım](usecases/65-auto-social-posting.md) | İçeriği otomatik programla ve yayınla |
+| 66 | [Trello/Notion Düzenleyici](usecases/66-trello-notion-organizer.md) | Gece pano temizliği, sabah durum raporu |
+| 67 | [Fiyat Karşılaştırma](usecases/67-price-comparison-shopper.md) | Birden fazla mağazada en iyi fiyatı bul |
+| 68 | [Toplantı Notları Oluşturucu](usecases/68-meeting-notes-generator.md) | Ham notları yapılandırılmış tutanaklara dönüştür |
+| 69 | [Ödev Koçu](usecases/69-homework-tutor.md) | Cevap vermeden yönlendiren sabırlı koç |
+| 70 | [Seyahat Planlamacı](usecases/70-travel-itinerary-planner.md) | Tek mesajla tam seyahat planı |
+
+## Katkıda Bulunma
+
+1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) dosyasını kopyalayın
+2. Tüm bölümleri doldurun
+3. Yukarıdaki uygun kategoriye ekleyin
+4. PR gönderin
+
+Kriterler:
+- **Somut**: Genel kavram değil, belirli görev
+- **Tekrarlanmayan**: Mevcut kullanım durumlarından farklı
+- **Eyleme Dönüştürülebilir**: Net kurulum adımları
+- **Atfedilmiş**: Orijinal kaynağa kredi
+
+## Lisans
+
+MIT - Serbestçe kullanılabilir ve değiştirilebilir.
+
+
+---
+
 ## İçerik Dönüşümü (7)
 
 Tüketim verimliliği için içeriği bir formattan diğerine dönüştürme.
@@ -129,51 +176,6 @@ Yeniden kullanılabilir araçlar ve arayüzler oluşturma.
 
 ---
 
----
-
-## Günlük Yaşam (20)
-
-Herkesin kurabildiği pratik kullanım durumları — kodlama veya teknik bilgi gereksiz.
-
-| # | Kullanım Durumu | Açıklama |
-|---|-----------------|----------|
-| 51 | [E-posta Bülteninden Podcast'e](usecases/51-email-to-podcast-commute.md) | Bültenleri yolculuk için sese dönüştür |
-| 52 | [Günlük Sabah Özeti](usecases/52-morning-briefing-telegram.md) | Hava+takvim+haberler tek mesajda |
-| 53 | [Instagram Hikaye Yöneticisi](usecases/53-instagram-story-manager.md) | Hikayeleri otomatik paylaş ve etkileşimi yönet |
-| 54 | [Soğuyan İlişkileri Canlandırma](usecases/54-cold-relationship-revival.md) | Kayıp arkadaşlarla yeniden bağlan |
-| 55 | [Akıllı Takvim Hatırlatıcı](usecases/55-calendar-smart-reminder.md) | Hazırlık önerileriyle bağlamsal hatırlatmalar |
-| 56 | [Otomatik E-posta Sınıflandırıcı](usecases/56-email-auto-sorter.md) | Gelen kutusunu aciliyete göre sınıfla |
-| 57 | [Günlük Öğrenme Günlüğü](usecases/57-daily-learning-journal.md) | Akşam soruları ile kişisel gelişimi takip et |
-| 58 | [Hava Durumu Kıyafet Danışmanı](usecases/58-weather-outfit-advisor.md) | Hava ve programa göre giyim önerisi |
-| 59 | [Haber Özeti Toplayıcı](usecases/59-news-digest-aggregator.md) | Çok kaynaklı özet, sıfır tekrar |
-| 60 | [Yaşam Hafıza Kaydedici](usecases/60-memory-life-logger.md) | Doğum günlerini ve sözleri unutma |
-| 61 | [Okuma Listesi Küratörü](usecases/61-reading-list-curator.md) | Hafta boyunca link kaydet, Cuma özet al |
-| 62 | [Telegram Akıllı Ev](usecases/62-smart-home-telegram.md) | Sohbetle ışık, sıcaklık, kilit kontrolü |
-| 63 | [Rezervasyon Ajanı](usecases/63-booking-appointment-agent.md) | Sadece bulmak değil, gerçekten rezerve et |
-| 64 | [Sosyal Medya Monitörü](usecases/64-social-media-monitor.md) | Platformlar arası bahsetmeleri takip et |
-| 65 | [Otomatik Sosyal Paylaşım](usecases/65-auto-social-posting.md) | İçeriği otomatik programla ve yayınla |
-| 66 | [Trello/Notion Düzenleyici](usecases/66-trello-notion-organizer.md) | Gece pano temizliği, sabah durum raporu |
-| 67 | [Fiyat Karşılaştırma](usecases/67-price-comparison-shopper.md) | Birden fazla mağazada en iyi fiyatı bul |
-| 68 | [Toplantı Notları Oluşturucu](usecases/68-meeting-notes-generator.md) | Ham notları yapılandırılmış tutanaklara dönüştür |
-| 69 | [Ödev Koçu](usecases/69-homework-tutor.md) | Cevap vermeden yönlendiren sabırlı koç |
-| 70 | [Seyahat Planlamacı](usecases/70-travel-itinerary-planner.md) | Tek mesajla tam seyahat planı |
-
-## Katkıda Bulunma
-
-1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) dosyasını kopyalayın
-2. Tüm bölümleri doldurun
-3. Yukarıdaki uygun kategoriye ekleyin
-4. PR gönderin
-
-Kriterler:
-- **Somut**: Genel kavram değil, belirli görev
-- **Tekrarlanmayan**: Mevcut kullanım durumlarından farklı
-- **Eyleme Dönüştürülebilir**: Net kurulum adımları
-- **Atfedilmiş**: Orijinal kaynağa kredi
-
-## Lisans
-
-MIT - Serbestçe kullanılabilir ve değiştirilebilir.
 
 ---
 

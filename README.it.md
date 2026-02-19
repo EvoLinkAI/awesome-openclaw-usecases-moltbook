@@ -25,6 +25,53 @@ Ogni caso d'uso include:
 
 ---
 
+## ⭐ Vita Quotidiana (20)
+
+Casi d'uso pratici che chiunque può configurare — nessuna programmazione o competenza tecnica richiesta.
+
+| # | Caso d'Uso | Descrizione |
+|---|------------|-------------|
+| 51 | [Newsletter Email a Podcast](usecases/51-email-to-podcast-commute.md) | Converti newsletter in audio per il pendolarismo |
+| 52 | [Briefing Mattutino Quotidiano](usecases/52-morning-briefing-telegram.md) | Meteo+calendario+notizie in un messaggio |
+| 53 | [Gestore Storie Instagram](usecases/53-instagram-story-manager.md) | Pubblica storie e gestisci engagement |
+| 54 | [Riattivazione Relazioni Fredde](usecases/54-cold-relationship-revival.md) | Riconnettiti con amici persi |
+| 55 | [Promemoria Calendario Intelligente](usecases/55-calendar-smart-reminder.md) | Promemoria con contesto e suggerimenti |
+| 56 | [Classificatore Email Automatico](usecases/56-email-auto-sorter.md) | Classifica inbox per urgenza |
+| 57 | [Diario di Apprendimento](usecases/57-daily-learning-journal.md) | Traccia crescita personale con domande serali |
+| 58 | [Consulente Outfit Meteo](usecases/58-weather-outfit-advisor.md) | Suggerimenti abbigliamento basati su meteo e agenda |
+| 59 | [Aggregatore Notizie](usecases/59-news-digest-aggregator.md) | Riassunto multi-fonte senza duplicati |
+| 60 | [Logger Memorie di Vita](usecases/60-memory-life-logger.md) | Non dimenticare compleanni e promesse |
+| 61 | [Curatore Lista Letture](usecases/61-reading-list-curator.md) | Salva link, ricevi digest il venerdì |
+| 62 | [Casa Intelligente via Telegram](usecases/62-smart-home-telegram.md) | Controlla luci e termostato via chat |
+| 63 | [Agente Prenotazioni](usecases/63-booking-appointment-agent.md) | Prenota davvero, non solo cerca |
+| 64 | [Monitor Social Media](usecases/64-social-media-monitor.md) | Traccia menzioni e sentiment |
+| 65 | [Pubblicazione Social Automatica](usecases/65-auto-social-posting.md) | Programma e pubblica contenuti |
+| 66 | [Organizzatore Trello/Notion](usecases/66-trello-notion-organizer.md) | Pulizia notturna board |
+| 67 | [Comparatore Prezzi](usecases/67-price-comparison-shopper.md) | Trova il miglior prezzo |
+| 68 | [Generatore Verbali Riunione](usecases/68-meeting-notes-generator.md) | Note grezze a verbali strutturati |
+| 69 | [Tutor Compiti](usecases/69-homework-tutor.md) | Tutor paziente che guida senza dare risposte |
+| 70 | [Pianificatore Itinerari](usecases/70-travel-itinerary-planner.md) | Piano di viaggio completo con un messaggio |
+
+## Contribuire
+
+1. Copiare [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
+2. Compilare tutte le sezioni
+3. Aggiungere alla categoria appropriata sopra
+4. Inviare PR
+
+Criteri:
+- **Concreto**: Task specifico, non concetto generale
+- **Non ripetitivo**: Diverso dai casi d'uso esistenti
+- **Azionabile**: Passaggi di configurazione chiari
+- **Attribuito**: Credito alla fonte originale
+
+## Licenza
+
+MIT - Libero da usare e modificare.
+
+
+---
+
 ## Conversione di Contenuti (7)
 
 Trasformare i contenuti da un formato all'altro per l'efficienza del consumo.
@@ -129,51 +176,6 @@ Costruzione strumenti e interfacce riutilizzabili.
 
 ---
 
----
-
-## Vita Quotidiana (20)
-
-Casi d'uso pratici che chiunque può configurare — nessuna programmazione o competenza tecnica richiesta.
-
-| # | Caso d'Uso | Descrizione |
-|---|------------|-------------|
-| 51 | [Newsletter Email a Podcast](usecases/51-email-to-podcast-commute.md) | Converti newsletter in audio per il pendolarismo |
-| 52 | [Briefing Mattutino Quotidiano](usecases/52-morning-briefing-telegram.md) | Meteo+calendario+notizie in un messaggio |
-| 53 | [Gestore Storie Instagram](usecases/53-instagram-story-manager.md) | Pubblica storie e gestisci engagement |
-| 54 | [Riattivazione Relazioni Fredde](usecases/54-cold-relationship-revival.md) | Riconnettiti con amici persi |
-| 55 | [Promemoria Calendario Intelligente](usecases/55-calendar-smart-reminder.md) | Promemoria con contesto e suggerimenti |
-| 56 | [Classificatore Email Automatico](usecases/56-email-auto-sorter.md) | Classifica inbox per urgenza |
-| 57 | [Diario di Apprendimento](usecases/57-daily-learning-journal.md) | Traccia crescita personale con domande serali |
-| 58 | [Consulente Outfit Meteo](usecases/58-weather-outfit-advisor.md) | Suggerimenti abbigliamento basati su meteo e agenda |
-| 59 | [Aggregatore Notizie](usecases/59-news-digest-aggregator.md) | Riassunto multi-fonte senza duplicati |
-| 60 | [Logger Memorie di Vita](usecases/60-memory-life-logger.md) | Non dimenticare compleanni e promesse |
-| 61 | [Curatore Lista Letture](usecases/61-reading-list-curator.md) | Salva link, ricevi digest il venerdì |
-| 62 | [Casa Intelligente via Telegram](usecases/62-smart-home-telegram.md) | Controlla luci e termostato via chat |
-| 63 | [Agente Prenotazioni](usecases/63-booking-appointment-agent.md) | Prenota davvero, non solo cerca |
-| 64 | [Monitor Social Media](usecases/64-social-media-monitor.md) | Traccia menzioni e sentiment |
-| 65 | [Pubblicazione Social Automatica](usecases/65-auto-social-posting.md) | Programma e pubblica contenuti |
-| 66 | [Organizzatore Trello/Notion](usecases/66-trello-notion-organizer.md) | Pulizia notturna board |
-| 67 | [Comparatore Prezzi](usecases/67-price-comparison-shopper.md) | Trova il miglior prezzo |
-| 68 | [Generatore Verbali Riunione](usecases/68-meeting-notes-generator.md) | Note grezze a verbali strutturati |
-| 69 | [Tutor Compiti](usecases/69-homework-tutor.md) | Tutor paziente che guida senza dare risposte |
-| 70 | [Pianificatore Itinerari](usecases/70-travel-itinerary-planner.md) | Piano di viaggio completo con un messaggio |
-
-## Contribuire
-
-1. Copiare [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
-2. Compilare tutte le sezioni
-3. Aggiungere alla categoria appropriata sopra
-4. Inviare PR
-
-Criteri:
-- **Concreto**: Task specifico, non concetto generale
-- **Non ripetitivo**: Diverso dai casi d'uso esistenti
-- **Azionabile**: Passaggi di configurazione chiari
-- **Attribuito**: Credito alla fonte originale
-
-## Licenza
-
-MIT - Libero da usare e modificare.
 
 ---
 

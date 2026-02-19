@@ -25,6 +25,53 @@ Jeder Anwendungsfall enthält:
 
 ---
 
+## ⭐ Alltag (20)
+
+Praktische Anwendungsfälle, die jeder einrichten kann — keine Programmier- oder technischen Kenntnisse erforderlich.
+
+| # | Anwendungsfall | Beschreibung |
+|---|----------------|--------------|
+| 51 | [E-Mail-Newsletter als Podcast](usecases/51-email-to-podcast-commute.md) | Newsletter in Audio für den Arbeitsweg |
+| 52 | [Tägliches Morgen-Briefing](usecases/52-morning-briefing-telegram.md) | Wetter+Kalender+News in einer Nachricht |
+| 53 | [Instagram Story Manager](usecases/53-instagram-story-manager.md) | Stories automatisch posten und Engagement verwalten |
+| 54 | [Kalte Beziehungen wiederbeleben](usecases/54-cold-relationship-revival.md) | Mit verlorenen Freunden wieder verbinden |
+| 55 | [Smarter Kalender-Reminder](usecases/55-calendar-smart-reminder.md) | Kontextbezogene Erinnerungen mit Vorschlägen |
+| 56 | [Automatischer E-Mail-Sortierer](usecases/56-email-auto-sorter.md) | Posteingang nach Dringlichkeit sortieren |
+| 57 | [Tägliches Lerntagebuch](usecases/57-daily-learning-journal.md) | Persönliches Wachstum mit Abendfragen verfolgen |
+| 58 | [Wetter-Outfit-Berater](usecases/58-weather-outfit-advisor.md) | Kleidungsvorschläge basierend auf Wetter und Kalender |
+| 59 | [News-Digest-Aggregator](usecases/59-news-digest-aggregator.md) | Multi-Quellen-Zusammenfassung ohne Duplikate |
+| 60 | [Lebenserinnerungen-Logger](usecases/60-memory-life-logger.md) | Geburtstage und Versprechen nie vergessen |
+| 61 | [Leselisten-Kurator](usecases/61-reading-list-curator.md) | Links speichern, Freitags-Digest erhalten |
+| 62 | [Smart Home via Telegram](usecases/62-smart-home-telegram.md) | Licht, Temperatur, Schlösser per Chat steuern |
+| 63 | [Buchungs-Agent](usecases/63-booking-appointment-agent.md) | Nicht nur finden, sondern wirklich buchen |
+| 64 | [Social-Media-Monitor](usecases/64-social-media-monitor.md) | Erwähnungen und Stimmung plattformübergreifend |
+| 65 | [Automatisches Social Posting](usecases/65-auto-social-posting.md) | Inhalte automatisch planen und veröffentlichen |
+| 66 | [Trello/Notion-Organizer](usecases/66-trello-notion-organizer.md) | Nächtliche Board-Aufräumung |
+| 67 | [Preisvergleich-Shopping](usecases/67-price-comparison-shopper.md) | Besten Preis über mehrere Shops finden |
+| 68 | [Protokoll-Generator](usecases/68-meeting-notes-generator.md) | Rohnotizen in strukturierte Protokolle |
+| 69 | [Hausaufgaben-Tutor](usecases/69-homework-tutor.md) | Geduldiger Tutor der leitet statt Antworten gibt |
+| 70 | [Reiseplaner](usecases/70-travel-itinerary-planner.md) | Kompletter Reiseplan mit einer Nachricht |
+
+## Beitragen
+
+1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) kopieren
+2. Alle Abschnitte ausfüllen
+3. Zur passenden Kategorie oben hinzufügen
+4. PR einreichen
+
+Kriterien:
+- **Konkret**: Spezifische Aufgabe, kein allgemeines Konzept
+- **Nicht wiederholend**: Anders als bestehende Anwendungsfälle
+- **Umsetzbar**: Klare Einrichtungsschritte
+- **Zugeschrieben**: Originalquelle angeben
+
+## Lizenz
+
+MIT - Frei zu verwenden und zu ändern.
+
+
+---
+
 ## Inhaltskonvertierung (7)
 
 Inhalte von einem Format in ein anderes für effizienteren Konsum transformieren.
@@ -129,51 +176,6 @@ Wiederverwendbare Werkzeuge und Schnittstellen bauen.
 
 ---
 
----
-
-## Alltag (20)
-
-Praktische Anwendungsfälle, die jeder einrichten kann — keine Programmier- oder technischen Kenntnisse erforderlich.
-
-| # | Anwendungsfall | Beschreibung |
-|---|----------------|--------------|
-| 51 | [E-Mail-Newsletter als Podcast](usecases/51-email-to-podcast-commute.md) | Newsletter in Audio für den Arbeitsweg |
-| 52 | [Tägliches Morgen-Briefing](usecases/52-morning-briefing-telegram.md) | Wetter+Kalender+News in einer Nachricht |
-| 53 | [Instagram Story Manager](usecases/53-instagram-story-manager.md) | Stories automatisch posten und Engagement verwalten |
-| 54 | [Kalte Beziehungen wiederbeleben](usecases/54-cold-relationship-revival.md) | Mit verlorenen Freunden wieder verbinden |
-| 55 | [Smarter Kalender-Reminder](usecases/55-calendar-smart-reminder.md) | Kontextbezogene Erinnerungen mit Vorschlägen |
-| 56 | [Automatischer E-Mail-Sortierer](usecases/56-email-auto-sorter.md) | Posteingang nach Dringlichkeit sortieren |
-| 57 | [Tägliches Lerntagebuch](usecases/57-daily-learning-journal.md) | Persönliches Wachstum mit Abendfragen verfolgen |
-| 58 | [Wetter-Outfit-Berater](usecases/58-weather-outfit-advisor.md) | Kleidungsvorschläge basierend auf Wetter und Kalender |
-| 59 | [News-Digest-Aggregator](usecases/59-news-digest-aggregator.md) | Multi-Quellen-Zusammenfassung ohne Duplikate |
-| 60 | [Lebenserinnerungen-Logger](usecases/60-memory-life-logger.md) | Geburtstage und Versprechen nie vergessen |
-| 61 | [Leselisten-Kurator](usecases/61-reading-list-curator.md) | Links speichern, Freitags-Digest erhalten |
-| 62 | [Smart Home via Telegram](usecases/62-smart-home-telegram.md) | Licht, Temperatur, Schlösser per Chat steuern |
-| 63 | [Buchungs-Agent](usecases/63-booking-appointment-agent.md) | Nicht nur finden, sondern wirklich buchen |
-| 64 | [Social-Media-Monitor](usecases/64-social-media-monitor.md) | Erwähnungen und Stimmung plattformübergreifend |
-| 65 | [Automatisches Social Posting](usecases/65-auto-social-posting.md) | Inhalte automatisch planen und veröffentlichen |
-| 66 | [Trello/Notion-Organizer](usecases/66-trello-notion-organizer.md) | Nächtliche Board-Aufräumung |
-| 67 | [Preisvergleich-Shopping](usecases/67-price-comparison-shopper.md) | Besten Preis über mehrere Shops finden |
-| 68 | [Protokoll-Generator](usecases/68-meeting-notes-generator.md) | Rohnotizen in strukturierte Protokolle |
-| 69 | [Hausaufgaben-Tutor](usecases/69-homework-tutor.md) | Geduldiger Tutor der leitet statt Antworten gibt |
-| 70 | [Reiseplaner](usecases/70-travel-itinerary-planner.md) | Kompletter Reiseplan mit einer Nachricht |
-
-## Beitragen
-
-1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) kopieren
-2. Alle Abschnitte ausfüllen
-3. Zur passenden Kategorie oben hinzufügen
-4. PR einreichen
-
-Kriterien:
-- **Konkret**: Spezifische Aufgabe, kein allgemeines Konzept
-- **Nicht wiederholend**: Anders als bestehende Anwendungsfälle
-- **Umsetzbar**: Klare Einrichtungsschritte
-- **Zugeschrieben**: Originalquelle angeben
-
-## Lizenz
-
-MIT - Frei zu verwenden und zu ändern.
 
 ---
 

@@ -25,6 +25,53 @@ Moltbook の実世界の実装から入手した **70 の具体的で重複し�
 
 ---
 
+## ⭐ 日常生活 (20)
+
+誰でも使える実用的なユースケース — プログラミングや技術的な知識は不要です。
+
+| # | ユースケース | 説明 |
+|---|-------------|------|
+| 51 | [メールニュースレターをポッドキャストに](usecases/51-email-to-podcast-commute.md) | 通勤中に聴けるオーディオに変換 |
+| 52 | [毎朝のブリーフィング](usecases/52-morning-briefing-telegram.md) | 天気+予定+ニュースを1メッセージで |
+| 53 | [Instagramストーリー管理](usecases/53-instagram-story-manager.md) | ストーリーの自動投稿とエンゲージメント管理 |
+| 54 | [疎遠な関係の復活](usecases/54-cold-relationship-revival.md) | 連絡が途絶えた友人と再接続 |
+| 55 | [スマートカレンダーリマインダー](usecases/55-calendar-smart-reminder.md) | 準備提案付きのコンテキストリマインダー |
+| 56 | [メール自動分類](usecases/56-email-auto-sorter.md) | 緊急度で受信箱を自動分類 |
+| 57 | [毎日の学習ジャーナル](usecases/57-daily-learning-journal.md) | 夕方の質問で個人の成長を追跡 |
+| 58 | [天気コーディネートアドバイザー](usecases/58-weather-outfit-advisor.md) | 天気と予定に基づく服装提案 |
+| 59 | [ニュースダイジェスト](usecases/59-news-digest-aggregator.md) | 複数ソースの要約、重複なし |
+| 60 | [ライフメモリーロガー](usecases/60-memory-life-logger.md) | 誕生日、好み、約束を忘れない |
+| 61 | [読書リストキュレーター](usecases/61-reading-list-curator.md) | 週中にリンクを保存、金曜にダイジェスト |
+| 62 | [Telegramスマートホーム](usecases/62-smart-home-telegram.md) | チャットで照明・温度・鍵を制御 |
+| 63 | [予約エージェント](usecases/63-booking-appointment-agent.md) | 探すだけでなく実際に予約 |
+| 64 | [ソーシャルメディアモニター](usecases/64-social-media-monitor.md) | プラットフォーム横断で言及を追跡 |
+| 65 | [自動ソーシャル投稿](usecases/65-auto-social-posting.md) | コンテンツの自動スケジュール投稿 |
+| 66 | [Trello/Notion整理](usecases/66-trello-notion-organizer.md) | 夜間のボード整理と朝のステータスレポート |
+| 67 | [価格比較ショッパー](usecases/67-price-comparison-shopper.md) | 複数店舗で最安値を検索 |
+| 68 | [議事録ジェネレーター](usecases/68-meeting-notes-generator.md) | メモを構造化された議事録に変換 |
+| 69 | [宿題チューター](usecases/69-homework-tutor.md) | 答えを教えずに導く忍耐強いチューター |
+| 70 | [旅行プランナー](usecases/70-travel-itinerary-planner.md) | 1メッセージで完全な旅行プランを生成 |
+
+## 貢献
+
+1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) をコピー
+2. すべてのセクションを記入
+3. 上記の適切なカテゴリに追加
+4. PR を送信
+
+基準：
+- **具体的**：一般的な概念ではなく特定のタスク
+- **重複なし**：既存のユースケースとは異なる
+- **実行可能**：明確なセットアップ手順
+- **帰属**：オリジナルのソースをクレジット
+
+## ライセンス
+
+MIT - 自由に使用および変更可能。
+
+
+---
+
 ## コンテンツ変換 (7)
 
 消費効率向上のためにコンテンツをある形式から別の形式に変換します。
@@ -129,51 +176,6 @@ Moltbook の実世界の実装から入手した **70 の具体的で重複し�
 
 ---
 
----
-
-## 日常生活 (20)
-
-誰でも使える実用的なユースケース — プログラミングや技術的な知識は不要です。
-
-| # | ユースケース | 説明 |
-|---|-------------|------|
-| 51 | [メールニュースレターをポッドキャストに](usecases/51-email-to-podcast-commute.md) | 通勤中に聴けるオーディオに変換 |
-| 52 | [毎朝のブリーフィング](usecases/52-morning-briefing-telegram.md) | 天気+予定+ニュースを1メッセージで |
-| 53 | [Instagramストーリー管理](usecases/53-instagram-story-manager.md) | ストーリーの自動投稿とエンゲージメント管理 |
-| 54 | [疎遠な関係の復活](usecases/54-cold-relationship-revival.md) | 連絡が途絶えた友人と再接続 |
-| 55 | [スマートカレンダーリマインダー](usecases/55-calendar-smart-reminder.md) | 準備提案付きのコンテキストリマインダー |
-| 56 | [メール自動分類](usecases/56-email-auto-sorter.md) | 緊急度で受信箱を自動分類 |
-| 57 | [毎日の学習ジャーナル](usecases/57-daily-learning-journal.md) | 夕方の質問で個人の成長を追跡 |
-| 58 | [天気コーディネートアドバイザー](usecases/58-weather-outfit-advisor.md) | 天気と予定に基づく服装提案 |
-| 59 | [ニュースダイジェスト](usecases/59-news-digest-aggregator.md) | 複数ソースの要約、重複なし |
-| 60 | [ライフメモリーロガー](usecases/60-memory-life-logger.md) | 誕生日、好み、約束を忘れない |
-| 61 | [読書リストキュレーター](usecases/61-reading-list-curator.md) | 週中にリンクを保存、金曜にダイジェスト |
-| 62 | [Telegramスマートホーム](usecases/62-smart-home-telegram.md) | チャットで照明・温度・鍵を制御 |
-| 63 | [予約エージェント](usecases/63-booking-appointment-agent.md) | 探すだけでなく実際に予約 |
-| 64 | [ソーシャルメディアモニター](usecases/64-social-media-monitor.md) | プラットフォーム横断で言及を追跡 |
-| 65 | [自動ソーシャル投稿](usecases/65-auto-social-posting.md) | コンテンツの自動スケジュール投稿 |
-| 66 | [Trello/Notion整理](usecases/66-trello-notion-organizer.md) | 夜間のボード整理と朝のステータスレポート |
-| 67 | [価格比較ショッパー](usecases/67-price-comparison-shopper.md) | 複数店舗で最安値を検索 |
-| 68 | [議事録ジェネレーター](usecases/68-meeting-notes-generator.md) | メモを構造化された議事録に変換 |
-| 69 | [宿題チューター](usecases/69-homework-tutor.md) | 答えを教えずに導く忍耐強いチューター |
-| 70 | [旅行プランナー](usecases/70-travel-itinerary-planner.md) | 1メッセージで完全な旅行プランを生成 |
-
-## 貢献
-
-1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) をコピー
-2. すべてのセクションを記入
-3. 上記の適切なカテゴリに追加
-4. PR を送信
-
-基準：
-- **具体的**：一般的な概念ではなく特定のタスク
-- **重複なし**：既存のユースケースとは異なる
-- **実行可能**：明確なセットアップ手順
-- **帰属**：オリジナルのソースをクレジット
-
-## ライセンス
-
-MIT - 自由に使用および変更可能。
 
 ---
 
