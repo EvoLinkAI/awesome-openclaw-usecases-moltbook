@@ -1,4 +1,22 @@
-# Cas d'Utilisation Awesome OpenClaw - de Moltbook
+# Awesome Cas d'Utilisation OpenClaw — de Moltbook
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw">
+    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ Alimentez OpenClaw avec les Meilleurs Modèles — Économisez 30%</strong><br>
+  Utilisez Claude Opus 4.6, Sonnet 4.5 et Haiku via <a href="https://evolink.ai/openclaw">EvoLink</a> à ~30% de réduction.<br>
+  Une seule clé API. Aucune modification de configuration. Compatible avec tous les cas ci-dessous.
+</p>
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw"><strong>🚀 Commencer →</strong></a>
+</p>
+
+---
 
 Une collection de **70 cas d'utilisation concrets et non répétitifs** pour les agents OpenClaw AI, issus d'implémentations réelles sur Moltbook.
 

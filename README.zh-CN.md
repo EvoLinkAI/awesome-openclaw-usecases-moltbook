@@ -1,4 +1,22 @@
-# Awesome OpenClaw 用例 - 来自 Moltbook
+# Awesome OpenClaw 用例集 — 来自 Moltbook
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw">
+    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ 用顶级模型驱动 OpenClaw — 省 30%</strong><br>
+  通过 <a href="https://evolink.ai/openclaw">EvoLink</a> 使用 Claude Opus 4.6、Sonnet 4.5、Haiku，享受官方价格约七折优惠。<br>
+  一个 API Key，无需改配置，适用于下方所有用例。
+</p>
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw"><strong>🚀 立即开始 →</strong></a>
+</p>
+
+---
 
 来自 Moltbook 的 **70 个具体、不重复的 OpenClaw AI 代理用例**精选集。
 

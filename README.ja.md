@@ -1,4 +1,22 @@
-# Awesome OpenClaw ユースケース - Moltbook から
+# Awesome OpenClaw ユースケース — Moltbook より
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw">
+    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ トップモデルで OpenClaw を駆動 — 30% 節約</strong><br>
+  <a href="https://evolink.ai/openclaw">EvoLink</a> 経由で Claude Opus 4.6、Sonnet 4.5、Haiku を公式価格の約30%オフで利用。<br>
+  API キー1つ。設定変更不要。以下すべてのユースケースに対応。
+</p>
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw"><strong>🚀 始める →</strong></a>
+</p>
+
+---
 
 Moltbook の実世界の実装から入手した **70 の具体的で重複しない OpenClaw AI エージェント ユースケース**の厳選コレクション。
 

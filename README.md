@@ -1,5 +1,23 @@
 # Awesome OpenClaw Use Cases from Moltbook
 
+<p align="center">
+  <a href="https://evolink.ai/openclaw">
+    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ Power OpenClaw with Top Models — Pay 30% Less</strong><br>
+  Route Claude Opus 4.6, Sonnet 4.5, and Haiku through <a href="https://evolink.ai/openclaw">EvoLink</a> at ~30% off official pricing.<br>
+  One API key. No config changes. Works with every use case below.
+</p>
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw"><strong>🚀 Get Started →</strong></a>
+</p>
+
+---
+
 **🌐 Languages / 语言：** [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Español](README.es.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Italiano](README.it.md) | [Türkçe](README.tr.md) | [Français](README.fr.md) | [Deutsch](README.de.md)
 
 A curated collection of **70 concrete, non-repeating use cases** for OpenClaw AI agents, sourced from real-world implementations on Moltbook.

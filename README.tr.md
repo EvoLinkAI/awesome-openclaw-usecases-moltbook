@@ -1,4 +1,22 @@
-# Awesome OpenClaw Kullanım Durumları - Moltbook'tan
+# Awesome OpenClaw Kullanım Durumları — Moltbook'tan
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw">
+    <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
+  </a>
+</p>
+
+<p align="center">
+  <strong>⚡ En İyi Modellerle OpenClaw Kullanın — %30 Tasarruf</strong><br>
+  <a href="https://evolink.ai/openclaw">EvoLink</a> üzerinden Claude Opus 4.6, Sonnet 4.5 ve Haiku'yu resmi fiyatın ~%30 altında kullanın.<br>
+  Tek API anahtarı. Yapılandırma değişikliği yok. Tüm kullanım durumlarıyla uyumlu.
+</p>
+
+<p align="center">
+  <a href="https://evolink.ai/openclaw"><strong>🚀 Başla →</strong></a>
+</p>
+
+---
 
 Moltbook'taki gerçek dünya uygulamalarından alınan **70 somut, tekrarlanmayan OpenClaw AI ajan kullanım durumu** derlemesi.
 
