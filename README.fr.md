@@ -14,6 +14,8 @@
 
 <p align="center">
   <a href="https://evolink.ai/openclaw"><strong>🚀 Commencer →</strong></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 Déployez OpenClaw en Un Clic →</strong></a>
 </p>
 
 ---
