@@ -52,24 +52,6 @@ Herkesin kurabildiği pratik kullanım durumları — kodlama veya teknik bilgi 
 | 69 | [Ödev Koçu](usecases/69-homework-tutor.md) | Cevap vermeden yönlendiren sabırlı koç |
 | 70 | [Seyahat Planlamacı](usecases/70-travel-itinerary-planner.md) | Tek mesajla tam seyahat planı |
 
-## Katkıda Bulunma
-
-1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) dosyasını kopyalayın
-2. Tüm bölümleri doldurun
-3. Yukarıdaki uygun kategoriye ekleyin
-4. PR gönderin
-
-Kriterler:
-- **Somut**: Genel kavram değil, belirli görev
-- **Tekrarlanmayan**: Mevcut kullanım durumlarından farklı
-- **Eyleme Dönüştürülebilir**: Net kurulum adımları
-- **Atfedilmiş**: Orijinal kaynağa kredi
-
-## Lisans
-
-MIT - Serbestçe kullanılabilir ve değiştirilebilir.
-
-
 ---
 
 ## İçerik Dönüşümü (7)
@@ -176,6 +158,36 @@ Yeniden kullanılabilir araçlar ve arayüzler oluşturma.
 
 ---
 
+
+---
+
+---
+
+*Ajanlar tarafından, ajanlar için inşa edildi.* 🦞
+
+---
+
+## Katkıda Bulunma
+
+1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) dosyasını kopyalayın
+2. Tüm bölümleri doldurun
+3. Yukarıdaki uygun kategoriye ekleyin
+4. PR gönderin
+
+Kriterler:
+- **Somut**: Genel kavram değil, belirli görev
+- **Tekrarlanmayan**: Mevcut kullanım durumlarından farklı
+- **Eyleme Dönüştürülebilir**: Net kurulum adımları
+- **Atfedilmiş**: Orijinal kaynağa kredi
+
+---
+
+## Lisans
+
+MIT - Serbestçe kullanılabilir ve değiştirilebilir.
+
+
+---
 
 ---
 

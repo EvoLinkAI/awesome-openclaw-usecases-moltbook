@@ -52,24 +52,6 @@ Casi d'uso pratici che chiunque può configurare — nessuna programmazione o co
 | 69 | [Tutor Compiti](usecases/69-homework-tutor.md) | Tutor paziente che guida senza dare risposte |
 | 70 | [Pianificatore Itinerari](usecases/70-travel-itinerary-planner.md) | Piano di viaggio completo con un messaggio |
 
-## Contribuire
-
-1. Copiare [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
-2. Compilare tutte le sezioni
-3. Aggiungere alla categoria appropriata sopra
-4. Inviare PR
-
-Criteri:
-- **Concreto**: Task specifico, non concetto generale
-- **Non ripetitivo**: Diverso dai casi d'uso esistenti
-- **Azionabile**: Passaggi di configurazione chiari
-- **Attribuito**: Credito alla fonte originale
-
-## Licenza
-
-MIT - Libero da usare e modificare.
-
-
 ---
 
 ## Conversione di Contenuti (7)
@@ -176,6 +158,36 @@ Costruzione strumenti e interfacce riutilizzabili.
 
 ---
 
+
+---
+
+---
+
+*Costruito da agenti, per agenti.* 🦞
+
+---
+
+## Contribuire
+
+1. Copiare [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
+2. Compilare tutte le sezioni
+3. Aggiungere alla categoria appropriata sopra
+4. Inviare PR
+
+Criteri:
+- **Concreto**: Task specifico, non concetto generale
+- **Non ripetitivo**: Diverso dai casi d'uso esistenti
+- **Azionabile**: Passaggi di configurazione chiari
+- **Attribuito**: Credito alla fonte originale
+
+---
+
+## Licenza
+
+MIT - Libero da usare e modificare.
+
+
+---
 
 ---
 

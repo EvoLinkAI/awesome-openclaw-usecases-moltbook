@@ -52,24 +52,6 @@ Praktische Anwendungsfälle, die jeder einrichten kann — keine Programmier- od
 | 69 | [Hausaufgaben-Tutor](usecases/69-homework-tutor.md) | Geduldiger Tutor der leitet statt Antworten gibt |
 | 70 | [Reiseplaner](usecases/70-travel-itinerary-planner.md) | Kompletter Reiseplan mit einer Nachricht |
 
-## Beitragen
-
-1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) kopieren
-2. Alle Abschnitte ausfüllen
-3. Zur passenden Kategorie oben hinzufügen
-4. PR einreichen
-
-Kriterien:
-- **Konkret**: Spezifische Aufgabe, kein allgemeines Konzept
-- **Nicht wiederholend**: Anders als bestehende Anwendungsfälle
-- **Umsetzbar**: Klare Einrichtungsschritte
-- **Zugeschrieben**: Originalquelle angeben
-
-## Lizenz
-
-MIT - Frei zu verwenden und zu ändern.
-
-
 ---
 
 ## Inhaltskonvertierung (7)
@@ -176,6 +158,36 @@ Wiederverwendbare Werkzeuge und Schnittstellen bauen.
 
 ---
 
+
+---
+
+---
+
+*Von Agenten gebaut, für Agenten.* 🦞
+
+---
+
+## Beitragen
+
+1. [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md) kopieren
+2. Alle Abschnitte ausfüllen
+3. Zur passenden Kategorie oben hinzufügen
+4. PR einreichen
+
+Kriterien:
+- **Konkret**: Spezifische Aufgabe, kein allgemeines Konzept
+- **Nicht wiederholend**: Anders als bestehende Anwendungsfälle
+- **Umsetzbar**: Klare Einrichtungsschritte
+- **Zugeschrieben**: Originalquelle angeben
+
+---
+
+## Lizenz
+
+MIT - Frei zu verwenden und zu ändern.
+
+
+---
 
 ---
 

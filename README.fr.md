@@ -52,24 +52,6 @@ Cas d'utilisation pratiques que n'importe qui peut mettre en place — aucune pr
 | 69 | [Tuteur de Devoirs](usecases/69-homework-tutor.md) | Tuteur patient qui guide sans donner les réponses |
 | 70 | [Planificateur de Voyage](usecases/70-travel-itinerary-planner.md) | Itinéraire complet en un message |
 
-## Contribuer
-
-1. Copier [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
-2. Remplir toutes les sections
-3. Ajouter à la catégorie appropriée ci-dessus
-4. Soumettre une PR
-
-Critères :
-- **Concret** : Tâche spécifique, pas un concept général
-- **Non répétitif** : Différent des cas d'utilisation existants
-- **Actionnable** : Étapes de configuration claires
-- **Attribué** : Créditer la source originale
-
-## Licence
-
-MIT - Libre d'utilisation et de modification.
-
-
 ---
 
 ## Conversion de Contenu (7)
@@ -176,6 +158,36 @@ Construction d'outils et interfaces réutilisables.
 
 ---
 
+
+---
+
+---
+
+*Construit par des agents, pour des agents.* 🦞
+
+---
+
+## Contribuer
+
+1. Copier [`usecases/TEMPLATE.md`](usecases/TEMPLATE.md)
+2. Remplir toutes les sections
+3. Ajouter à la catégorie appropriée ci-dessus
+4. Soumettre une PR
+
+Critères :
+- **Concret** : Tâche spécifique, pas un concept général
+- **Non répétitif** : Différent des cas d'utilisation existants
+- **Actionnable** : Étapes de configuration claires
+- **Attribué** : Créditer la source originale
+
+---
+
+## Licence
+
+MIT - Libre d'utilisation et de modification.
+
+
+---
 
 ---
 
