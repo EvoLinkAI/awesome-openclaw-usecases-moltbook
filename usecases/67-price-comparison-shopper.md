@@ -8,8 +8,8 @@ Tell your agent what you want to buy, and it comes back with a comparison table:
 
 ## Skills You Need
 
-- [Web Search](https://clawhub.com/skills/web-search) — Search across shopping platforms
-- [Web Fetch](https://clawhub.com/skills/web-fetch) — Read product pages and prices
+- Web Search — Search across shopping platforms
+- Web Fetch — Read product pages and prices
 
 ## How to Setup
 

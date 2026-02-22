@@ -10,11 +10,11 @@ This is perfect for news enthusiasts, professionals who need to stay current on 
 
 ## Skills You Need
 
-- [RSS Reader Skill](https://clawhub.com/skills/rss) — Fetch news from RSS feeds
-- [Web Fetch Skill](https://clawhub.com/skills/web-fetch) — Scrape news websites
-- [AI/Analysis Skill](https://clawhub.com/skills/ai) — Summarize and deduplicate articles
-- [Telegram Skill](https://clawhub.com/skills/telegram) — Deliver the digest
-- [Memory/Notes Skill](https://clawhub.com/skills/memory) — Track what you've already seen
+- RSS Reader Skill — Fetch news from RSS feeds
+- Web Fetch Skill — Scrape news websites
+- AI/Analysis Skill — Summarize and deduplicate articles
+- Telegram Skill — Deliver the digest
+- Memory/Notes Skill — Track what you've already seen
 
 ## How to Setup
 

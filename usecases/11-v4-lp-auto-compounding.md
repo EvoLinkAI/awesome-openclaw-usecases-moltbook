@@ -12,9 +12,9 @@ Automated monitoring and compounding of Uniswap V4 liquidity positions. Tracks L
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web3` | [ClawdHub](https://clawhub.com/skills/web3) | Blockchain interaction |
-| `uniswap` | [ClawdHub](https://clawhub.com/skills/defi) | V4 position management |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Compound notifications |
+| `web3` | ClawdHub | Blockchain interaction |
+| `uniswap` | ClawdHub | V4 position management |
+| `telegram` | ClawdHub | Compound notifications |
 
 ## How to Setup
 

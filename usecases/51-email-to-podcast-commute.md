@@ -10,8 +10,8 @@ No technical skills required. Just forward an email and say "make a podcast," or
 
 ## Skills You Need
 
-- [TTS / ElevenLabs](https://clawhub.com/skills/tts) — Text-to-speech audio generation
-- [Email Access](https://clawhub.com/skills/email) — Read incoming emails (Gmail, Outlook)
+- TTS / ElevenLabs — Text-to-speech audio generation
+- Email Access — Read incoming emails (Gmail, Outlook)
 
 ## How to Setup
 

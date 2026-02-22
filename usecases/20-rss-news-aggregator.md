@@ -12,8 +12,8 @@ Multi-source RSS feed aggregation with deduplication and summarization. Combines
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | [ClawdHub](https://clawhub.com/skills/web) | Fetch feeds |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Delivery |
+| `web_fetch` | ClawdHub | Fetch feeds |
+| `telegram` | ClawdHub | Delivery |
 
 ## How to Setup
 

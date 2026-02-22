@@ -10,8 +10,8 @@ Perfect for small business owners, freelancers, or anyone who wants to stay acti
 
 ## Skills You Need
 
-- [Browser Control](https://clawhub.com/skills/browser) — Automate Instagram interactions
-- [Image Generation](https://clawhub.com/skills/image-gen) — Create story visuals (optional)
+- Browser Control — Automate Instagram interactions
+- Image Generation — Create story visuals (optional)
 
 ## How to Setup
 

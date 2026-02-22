@@ -12,8 +12,8 @@ Automated prediction market monitoring: scans Polymarket every 15 minutes overni
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `polymarket` | [ClawdHub](https://clawhub.com/skills/defi) | Market data |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Alerts |
+| `polymarket` | ClawdHub | Market data |
+| `telegram` | ClawdHub | Alerts |
 
 ## How to Setup
 

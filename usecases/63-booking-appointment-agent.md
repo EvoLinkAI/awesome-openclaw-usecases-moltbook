@@ -10,9 +10,9 @@ The goal: you make one request, and the appointment appears on your calendar.
 
 ## Skills You Need
 
-- [Web Search](https://clawhub.com/skills/web-search) — Find service providers
-- [Browser Control](https://clawhub.com/skills/browser) — Navigate booking websites
-- [Web Fetch](https://clawhub.com/skills/web-fetch) — Read business details
+- Web Search — Find service providers
+- Browser Control — Navigate booking websites
+- Web Fetch — Read business details
 
 ## How to Setup
 

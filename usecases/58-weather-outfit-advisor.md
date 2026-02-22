@@ -10,10 +10,10 @@ This is perfect for busy professionals, fashion-conscious individuals, or anyone
 
 ## Skills You Need
 
-- [Weather Skill](https://clawhub.com/skills/weather) — Get local weather forecast
-- [Calendar Skill](https://clawhub.com/skills/calendar) — Check today's schedule
-- [Telegram Skill](https://clawhub.com/skills/telegram) — Send outfit recommendations
-- [Memory/Notes Skill](https://clawhub.com/skills/memory) — Remember your wardrobe preferences
+- Weather Skill — Get local weather forecast
+- Calendar Skill — Check today's schedule
+- Telegram Skill — Send outfit recommendations
+- Memory/Notes Skill — Remember your wardrobe preferences
 
 ## How to Setup
 

@@ -13,9 +13,9 @@ Automated monitoring and recovery system for paper trading bots. Detects when bo
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `process` | Built-in | Monitor bot processes |
-| `docker` | [ClawdHub](https://clawhub.com/skills/docker) | Container management |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Health reports |
-| `cron` | [ClawdHub](https://clawhub.com/skills/scheduler) | Continuous monitoring |
+| `docker` | ClawdHub | Container management |
+| `telegram` | ClawdHub | Health reports |
+| `cron` | ClawdHub | Continuous monitoring |
 
 ## How to Setup
 

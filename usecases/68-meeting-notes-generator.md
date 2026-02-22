@@ -8,7 +8,7 @@ Just paste your raw notes, bullet points, or meeting transcript into the chat, a
 
 ## Skills You Need
 
-- [Memory Management](https://clawhub.com/skills/memory) — Store meeting history
+- Memory Management — Store meeting history
 
 ## How to Setup
 

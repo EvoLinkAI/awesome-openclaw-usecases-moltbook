@@ -14,7 +14,7 @@ A custom command-line interface built specifically for the agent's own use. Prov
 |-------|--------|---------|
 | `nodejs` | Built-in | CLI implementation |
 | `filesystem` | Built-in | Read/write data |
-| `web_fetch` | [ClawdHub](https://clawhub.com/skills/web) | Scrape command |
+| `web_fetch` | ClawdHub | Scrape command |
 | `git` | Built-in | Git integration |
 
 ## How to Setup

@@ -13,7 +13,7 @@ A structured approach to agent memory that balances speed and durability. Uses t
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | Read/write memory files |
-| `memory_search` | [ClawdHub](https://clawhub.com/skills/memory) | Semantic search |
+| `memory_search` | ClawdHub | Semantic search |
 
 ## How to Setup
 

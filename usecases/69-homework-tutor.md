@@ -10,7 +10,7 @@ Not a replacement for learning — a supplement that makes homework less frustra
 
 ## Skills You Need
 
-- [Web Search](https://clawhub.com/skills/web-search) — Research reference material
+- Web Search — Research reference material
 
 ## How to Setup
 

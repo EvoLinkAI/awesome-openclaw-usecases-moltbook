@@ -10,8 +10,8 @@ This is the "personal assistant morning report" that executives pay thousands fo
 
 ## Skills You Need
 
-- [Weather](https://clawhub.com/skills/weather) — Current weather and forecasts
-- [Web Search](https://clawhub.com/skills/web-search) — News headlines
+- Weather — Current weather and forecasts
+- Web Search — News headlines
 
 ## How to Setup
 

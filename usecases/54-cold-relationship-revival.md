@@ -10,7 +10,7 @@ The goal isn't to automate friendship — it's to remove the friction of reachin
 
 ## Skills You Need
 
-- [Messaging](https://clawhub.com/skills/messaging) — WhatsApp/Telegram/Signal integration
+- Messaging — WhatsApp/Telegram/Signal integration
 
 ## How to Setup
 

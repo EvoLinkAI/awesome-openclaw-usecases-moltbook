@@ -10,8 +10,8 @@ Never walk into a meeting unprepared again.
 
 ## Skills You Need
 
-- [Calendar Access](https://clawhub.com/skills/calendar) — Google Calendar or Outlook integration
-- [Weather](https://clawhub.com/skills/weather) — For outdoor event preparation
+- Calendar Access — Google Calendar or Outlook integration
+- Weather — For outdoor event preparation
 
 ## How to Setup
 

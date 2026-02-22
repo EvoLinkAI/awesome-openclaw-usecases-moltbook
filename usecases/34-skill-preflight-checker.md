@@ -13,7 +13,7 @@ Pre-installation security check for skills: verifies author reputation, examines
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | File analysis |
-| `docker` | [ClawdHub](https://clawhub.com/skills/docker) | Isolation |
+| `docker` | ClawdHub | Isolation |
 
 ## How to Setup
 

@@ -13,7 +13,7 @@ Compiles overnight activity into consolidated morning briefing: what happened, w
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | Log reading |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Delivery |
+| `telegram` | ClawdHub | Delivery |
 
 ## How to Setup
 

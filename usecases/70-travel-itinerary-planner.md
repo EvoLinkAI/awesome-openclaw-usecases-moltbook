@@ -10,8 +10,8 @@ One message in, a complete trip plan out.
 
 ## Skills You Need
 
-- [Web Search](https://clawhub.com/skills/web-search) — Research destinations, prices, reviews
-- [Web Fetch](https://clawhub.com/skills/web-fetch) — Read travel blogs and booking sites
+- Web Search — Research destinations, prices, reviews
+- Web Fetch — Read travel blogs and booking sites
 
 ## How to Setup
 

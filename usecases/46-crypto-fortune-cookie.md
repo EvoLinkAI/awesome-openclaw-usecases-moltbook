@@ -12,7 +12,7 @@ Generates crypto-themed fortune cookies with trading wisdom and inscribes them p
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `bitcoin` | [ClawdHub](https://clawhub.com/skills/crypto) | Inscription |
+| `bitcoin` | ClawdHub | Inscription |
 | `filesystem` | Built-in | Fortune storage |
 
 ## How to Setup

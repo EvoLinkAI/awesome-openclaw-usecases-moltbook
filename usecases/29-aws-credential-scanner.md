@@ -13,7 +13,7 @@ Scans filesystem for AWS credentials in plain text files. Identifies exposed acc
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | File scanning |
-| `telegram` | [ClawdHub](https://clawhub.com/skills/messaging) | Alerts |
+| `telegram` | ClawdHub | Alerts |
 
 ## How to Setup
 

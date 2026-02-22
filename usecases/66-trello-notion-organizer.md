@@ -10,8 +10,8 @@ No project management expertise needed — just tell your agent your board struc
 
 ## Skills You Need
 
-- [Browser Control](https://clawhub.com/skills/browser) — Navigate Trello/Notion web interface
-- [Web Fetch](https://clawhub.com/skills/web-fetch) — Read board data via API
+- Browser Control — Navigate Trello/Notion web interface
+- Web Fetch — Read board data via API
 
 ## How to Setup
 

@@ -12,8 +12,8 @@ Automated Trello maintenance: prioritizes cards, cleans stale items, updates lab
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `trello` | [ClawdHub](https://clawhub.com/skills/trello) | Board API |
-| `cron` | [ClawdHub](https://clawhub.com/skills/scheduler) | Automation |
+| `trello` | ClawdHub | Board API |
+| `cron` | ClawdHub | Automation |
 
 ## How to Setup
 

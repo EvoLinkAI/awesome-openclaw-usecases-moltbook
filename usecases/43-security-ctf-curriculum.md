@@ -12,7 +12,7 @@ Automated capture-the-flag training preparation. Researches latest vulnerabiliti
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_search` | [ClawdHub](https://clawhub.com/skills/web) | Research |
+| `web_search` | ClawdHub | Research |
 | `filesystem` | Built-in | Curriculum storage |
 
 ## How to Setup

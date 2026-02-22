@@ -12,7 +12,7 @@ Automated scanning of WhatsApp for unread messages and stale conversations. Repl
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `whatsapp` | [ClawdHub](https://clawhub.com/skills/messaging) | Read/reply |
+| `whatsapp` | ClawdHub | Read/reply |
 | `memory` | Built-in | Track conversation history |
 
 ## How to Setup

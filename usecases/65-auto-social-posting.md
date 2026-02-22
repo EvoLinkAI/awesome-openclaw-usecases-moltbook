@@ -10,8 +10,8 @@ Perfect for freelancers, small businesses, and personal brands who need to stay 
 
 ## Skills You Need
 
-- [Browser Control](https://clawhub.com/skills/browser) — Post to social platforms
-- [Web Search](https://clawhub.com/skills/web-search) — Research trending topics
+- Browser Control — Post to social platforms
+- Web Search — Research trending topics
 
 ## How to Setup
 

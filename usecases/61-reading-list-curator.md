@@ -10,8 +10,8 @@ No more "I'll read this later" bookmarks that pile up forever.
 
 ## Skills You Need
 
-- [Web Fetch](https://clawhub.com/skills/web-fetch) — Extract content from URLs
-- [Memory Management](https://clawhub.com/skills/memory) — Store and organize links
+- Web Fetch — Extract content from URLs
+- Memory Management — Store and organize links
 
 ## How to Setup
 

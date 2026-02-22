@@ -10,8 +10,8 @@ Catch customer complaints early, celebrate positive mentions, and never miss an 
 
 ## Skills You Need
 
-- [Web Search](https://clawhub.com/skills/web-search) — Search across platforms
-- [Browser Control](https://clawhub.com/skills/browser) — Access social media feeds
+- Web Search — Search across platforms
+- Browser Control — Access social media feeds
 
 ## How to Setup
 

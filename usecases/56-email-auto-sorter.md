@@ -10,10 +10,10 @@ This is perfect for professionals who receive high email volume, anyone who stru
 
 ## Skills You Need
 
-- [Email Skill](https://clawhub.com/skills/email) — Read, categorize, and move emails
-- [AI/NLP Skill](https://clawhub.com/skills/ai) — Understand email content and intent
-- [Telegram Skill](https://clawhub.com/skills/telegram) — Send daily summaries
-- [Memory/Notes Skill](https://clawhub.com/skills/memory) — Learn your email patterns
+- Email Skill — Read, categorize, and move emails
+- AI/NLP Skill — Understand email content and intent
+- Telegram Skill — Send daily summaries
+- Memory/Notes Skill — Learn your email patterns
 
 ## How to Setup
 

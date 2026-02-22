@@ -8,8 +8,8 @@ No more fumbling with multiple apps for different devices. One chat interface to
 
 ## Skills You Need
 
-- [Home Assistant](https://clawhub.com/skills/home-assistant) — Smart home integration
-- [Browser Control](https://clawhub.com/skills/browser) — Fallback for web-based controls
+- Home Assistant — Smart home integration
+- Browser Control — Fallback for web-based controls
 
 ## How to Setup
 

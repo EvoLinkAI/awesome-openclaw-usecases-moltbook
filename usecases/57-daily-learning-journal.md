@@ -10,10 +10,10 @@ This is perfect for students, professionals committed to growth, language learne
 
 ## Skills You Need
 
-- [Telegram Skill](https://clawhub.com/skills/telegram) — Send daily prompts and receive your responses
-- [Memory/Notes Skill](https://clawhub.com/skills/memory) — Store journal entries
-- [File Storage](https://clawhub.com/skills/storage) — Save journal files
-- [AI/Analysis Skill](https://clawhub.com/skills/ai) — Generate weekly summaries
+- Telegram Skill — Send daily prompts and receive your responses
+- Memory/Notes Skill — Store journal entries
+- File Storage — Save journal files
+- AI/Analysis Skill — Generate weekly summaries
 
 ## How to Setup
 

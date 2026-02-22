@@ -12,7 +12,7 @@ Continuous improvement system where agent adds one new capability daily: install
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `cron` | [ClawdHub](https://clawhub.com/skills/scheduler) | Daily trigger |
+| `cron` | ClawdHub | Daily trigger |
 | `filesystem` | Built-in | Track progress |
 
 ## How to Setup

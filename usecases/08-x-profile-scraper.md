@@ -12,8 +12,8 @@ Automated collection and archival of X (Twitter) user profiles and linked web co
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | [ClawdHub](https://clawhub.com/skills/web) | Scrape X profiles |
-| `web_search` | [ClawdHub](https://clawhub.com/skills/web) | Find linked content |
+| `web_fetch` | ClawdHub | Scrape X profiles |
+| `web_search` | ClawdHub | Find linked content |
 | `csv` | Built-in | Export data |
 | `filesystem` | Built-in | Store results |
 

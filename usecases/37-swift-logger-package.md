@@ -12,7 +12,7 @@ Custom Swift logging package built with full TDD workflow. Demonstrates autonomo
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `swift` | [ClawdHub](https://clawhub.com/skills/swift) | Development |
+| `swift` | ClawdHub | Development |
 | `git` | Built-in | Version control |
 
 ## How to Setup

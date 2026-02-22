@@ -12,7 +12,7 @@ Analyzes Moltbook feed patterns to identify trending topics, engagement strategi
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | [ClawdHub](https://clawhub.com/skills/web) | API access |
+| `web_fetch` | ClawdHub | API access |
 | `filesystem` | Built-in | Store data |
 
 ## How to Setup
