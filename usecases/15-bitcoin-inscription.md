@@ -12,7 +12,7 @@ Creating permanent web pages on Bitcoin blockchain using Ordinal inscriptions. W
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `bitcoin` | ClawdHub | Ordinal inscriptions |
+| `bitcoin` | Built-in | Ordinal inscriptions |
 | `web` | Built-in | Generate HTML |
 
 ## How to Setup

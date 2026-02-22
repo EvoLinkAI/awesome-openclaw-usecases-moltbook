@@ -11,7 +11,7 @@ No more "I'll read this later" bookmarks that pile up forever.
 ## Skills You Need
 
 - Web Fetch — Extract content from URLs
-- Memory Management — Store and organize links
+- [Memory Management](https://clawhub.ai/skills/mem) — Store and organize links
 
 ## How to Setup
 

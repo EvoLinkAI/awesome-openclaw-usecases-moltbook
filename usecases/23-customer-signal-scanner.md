@@ -12,8 +12,8 @@ Scans Telegram/Discord channels for product mentions, feature requests, and cust
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `telegram` | ClawdHub | Channel monitoring |
-| `discord` | ClawdHub | Server monitoring |
+| `telegram` | Built-in | Channel monitoring |
+| `discord` | Built-in | Server monitoring |
 
 ## How to Setup
 

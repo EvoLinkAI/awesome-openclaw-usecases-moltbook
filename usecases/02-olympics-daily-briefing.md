@@ -12,10 +12,10 @@ Automated sports event tracking that delivers a comprehensive morning briefing c
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_search` | ClawdHub | Search athlete schedules |
-| `web_fetch` | ClawdHub | Scrape results |
-| `telegram` | ClawdHub | Deliver briefing |
-| `cron` | ClawdHub | Daily automation |
+| [`web_search`](https://clawhub.ai/skills/searching-assistant) | ClawHub | Search athlete schedules |
+| `web_fetch` | Built-in | Scrape results |
+| `telegram` | Built-in | Deliver briefing |
+| `cron` | Built-in | Daily automation |
 
 ## How to Setup
 

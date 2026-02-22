@@ -11,9 +11,9 @@ This is perfect for busy professionals, fashion-conscious individuals, or anyone
 ## Skills You Need
 
 - Weather Skill — Get local weather forecast
-- Calendar Skill — Check today's schedule
+- [Calendar Skill](https://clawhub.ai/skills/calendar) — Check today's schedule
 - Telegram Skill — Send outfit recommendations
-- Memory/Notes Skill — Remember your wardrobe preferences
+- [Memory/Notes Skill](https://clawhub.ai/skills/mem) — Remember your wardrobe preferences
 
 ## How to Setup
 

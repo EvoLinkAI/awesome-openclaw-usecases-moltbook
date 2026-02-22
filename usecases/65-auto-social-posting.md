@@ -11,7 +11,7 @@ Perfect for freelancers, small businesses, and personal brands who need to stay 
 ## Skills You Need
 
 - Browser Control — Post to social platforms
-- Web Search — Research trending topics
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — Research trending topics
 
 ## How to Setup
 

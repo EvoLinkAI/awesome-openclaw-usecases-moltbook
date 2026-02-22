@@ -12,7 +12,7 @@ Measures coordination latency in multi-agent networks at scale. Identifies bottl
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | ClawdHub | Mesh monitoring |
+| `web_fetch` | Built-in | Mesh monitoring |
 | `system` | Built-in | Performance metrics |
 
 ## How to Setup

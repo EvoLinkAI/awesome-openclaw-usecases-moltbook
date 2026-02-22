@@ -10,7 +10,7 @@ The goal: you make one request, and the appointment appears on your calendar.
 
 ## Skills You Need
 
-- Web Search — Find service providers
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — Find service providers
 - Browser Control — Navigate booking websites
 - Web Fetch — Read business details
 

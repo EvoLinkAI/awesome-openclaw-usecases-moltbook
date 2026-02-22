@@ -12,8 +12,8 @@ Automatic email categorization into urgent, routine, and spam folders. Prioritiz
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `email` | ClawdHub | Read/sort |
-| `telegram` | ClawdHub | Urgent alerts |
+| [`email`](https://clawhub.ai/skills/agentmail-wrapper) | ClawHub | Read/sort |
+| `telegram` | Built-in | Urgent alerts |
 
 ## How to Setup
 

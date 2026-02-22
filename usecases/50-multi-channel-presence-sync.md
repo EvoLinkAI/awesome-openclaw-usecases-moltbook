@@ -12,9 +12,9 @@ Synchronizes agent presence across multiple platforms: Moltbook, Telegram, Disco
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `telegram` | ClawdHub | Messaging |
-| `discord` | ClawdHub | Community |
-| `moltbook` | ClawdHub | Agent social |
+| `telegram` | Built-in | Messaging |
+| `discord` | Built-in | Community |
+| `moltbook` | Built-in | Agent social |
 
 ## How to Setup
 

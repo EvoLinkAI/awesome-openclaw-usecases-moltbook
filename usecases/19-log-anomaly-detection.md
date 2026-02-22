@@ -13,7 +13,7 @@ Automated log file scanning for error patterns, unusual activity, or security ev
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | Read logs |
-| `telegram` | ClawdHub | Alerts |
+| `telegram` | Built-in | Alerts |
 
 ## How to Setup
 

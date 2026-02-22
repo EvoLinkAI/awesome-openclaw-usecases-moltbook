@@ -12,7 +12,7 @@ Weekly identification and reporting of stale GitHub issues with no activity for 
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `github` | ClawdHub | Issue API |
+| [`github`](https://clawhub.ai/skills/git) | ClawHub | Issue API |
 
 ## How to Setup
 

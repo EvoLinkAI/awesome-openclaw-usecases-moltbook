@@ -12,9 +12,9 @@ Automated scanning and prioritization of GitHub issues across repositories. Iden
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `github` | ClawdHub | API access to issues |
-| `web_fetch` | ClawdHub | Scrape issue details |
-| `telegram` | ClawdHub | Morning digest |
+| [`github`](https://clawhub.ai/skills/git) | ClawHub | API access to issues |
+| `web_fetch` | Built-in | Scrape issue details |
+| `telegram` | Built-in | Morning digest |
 
 ## How to Setup
 

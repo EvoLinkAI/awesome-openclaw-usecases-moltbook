@@ -13,8 +13,8 @@ Early morning server health monitoring: uptime checks, disk space verification, 
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `system` | Built-in | Resource monitoring |
-| `telegram` | ClawdHub | Alerts |
-| `cron` | ClawdHub | Automation |
+| `telegram` | Built-in | Alerts |
+| `cron` | Built-in | Automation |
 
 ## How to Setup
 

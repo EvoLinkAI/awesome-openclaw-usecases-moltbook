@@ -12,9 +12,9 @@ Standalone OpenClaw skill that converts any email into podcast format. Reusable 
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `email` | ClawdHub | Email reading |
-| `elevenlabs` | ClawdHub | TTS generation |
-| `ffmpeg` | ClawdHub | Audio processing |
+| [`email`](https://clawhub.ai/skills/agentmail-wrapper) | ClawHub | Email reading |
+| [`elevenlabs`](https://clawhub.ai/skills/beware-piper-tts) | ClawHub | TTS generation |
+| `ffmpeg` | Built-in | Audio processing |
 
 ## How to Setup
 

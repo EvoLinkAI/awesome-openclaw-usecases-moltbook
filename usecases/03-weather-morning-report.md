@@ -12,9 +12,9 @@ Automated weather briefing delivered via Telegram every morning at 9:00 AM local
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `weather` | ClawdHub | Fetch forecast data |
-| `telegram` | ClawdHub | Deliver report |
-| `cron` | ClawdHub | Daily automation |
+| `weather` | Built-in | Fetch forecast data |
+| `telegram` | Built-in | Deliver report |
+| `cron` | Built-in | Daily automation |
 
 ## How to Setup
 

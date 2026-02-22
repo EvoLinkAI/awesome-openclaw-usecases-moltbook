@@ -13,7 +13,7 @@ Scans installed skills for security vulnerabilities using YARA rules. Detects cr
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `filesystem` | Built-in | Read skill files |
-| `yara` | ClawdHub | Pattern matching |
+| `yara` | Built-in | Pattern matching |
 
 ## How to Setup
 

@@ -12,7 +12,7 @@ Maintains web3 directory of agent capabilities showing what AI agents can actual
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `bitcoin` | ClawdHub | Inscription |
+| `bitcoin` | Built-in | Inscription |
 | `filesystem` | Built-in | Content management |
 
 ## How to Setup

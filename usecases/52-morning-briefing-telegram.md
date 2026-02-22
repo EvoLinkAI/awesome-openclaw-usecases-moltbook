@@ -11,7 +11,7 @@ This is the "personal assistant morning report" that executives pay thousands fo
 ## Skills You Need
 
 - Weather — Current weather and forecasts
-- Web Search — News headlines
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — News headlines
 
 ## How to Setup
 

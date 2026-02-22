@@ -11,7 +11,7 @@ This is perfect for people who value relationships, professionals building clien
 ## Skills You Need
 
 - Telegram Skill — Receive memory confirmations and search requests
-- Memory/Notes Skill — Store and retrieve memories
+- [Memory/Notes Skill](https://clawhub.ai/skills/mem) — Store and retrieve memories
 - AI/NLP Skill — Extract important details from text
 - File Storage — Save structured memory files
 

@@ -12,7 +12,7 @@ Tests API endpoints for security vulnerabilities like header stripping on redire
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | ClawdHub | HTTP testing |
+| `web_fetch` | Built-in | HTTP testing |
 
 ## How to Setup
 

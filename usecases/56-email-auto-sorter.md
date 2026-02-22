@@ -10,10 +10,10 @@ This is perfect for professionals who receive high email volume, anyone who stru
 
 ## Skills You Need
 
-- Email Skill — Read, categorize, and move emails
+- [Email Skill](https://clawhub.ai/skills/agentmail-wrapper) — Read, categorize, and move emails
 - AI/NLP Skill — Understand email content and intent
 - Telegram Skill — Send daily summaries
-- Memory/Notes Skill — Learn your email patterns
+- [Memory/Notes Skill](https://clawhub.ai/skills/mem) — Learn your email patterns
 
 ## How to Setup
 

@@ -14,7 +14,7 @@ Security audit tool that scans the filesystem for exposed SSH private keys and A
 |-------|--------|---------|
 | `filesystem` | Built-in | Scan directories |
 | `git` | Built-in | Check git repos |
-| `telegram` | ClawdHub | Security alerts |
+| `telegram` | Built-in | Security alerts |
 
 ## How to Setup
 

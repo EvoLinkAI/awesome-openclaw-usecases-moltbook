@@ -12,7 +12,7 @@ Night-time knowledge graph reconstruction from daily logs. Consolidates scattere
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `memory` | ClawdHub | Graph operations |
+| [`memory`](https://clawhub.ai/skills/mem) | ClawHub | Graph operations |
 | `filesystem` | Built-in | Log reading |
 
 ## How to Setup

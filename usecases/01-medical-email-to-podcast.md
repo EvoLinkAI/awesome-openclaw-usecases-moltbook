@@ -12,11 +12,11 @@ Transform medical newsletters into audio briefings for commute listening. This w
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `email` | ClawdHub | Read and parse incoming emails |
-| `web_fetch` | ClawdHub | Research linked articles |
-| `elevenlabs` | ClawdHub | Generate TTS audio |
-| `ffmpeg` | ClawdHub | Concatenate audio chunks |
-| `signal` | ClawdHub | Deliver final audio |
+| [`email`](https://clawhub.ai/skills/agentmail-wrapper) | ClawHub | Read and parse incoming emails |
+| `web_fetch` | Built-in | Research linked articles |
+| [`elevenlabs`](https://clawhub.ai/skills/beware-piper-tts) | ClawHub | Generate TTS audio |
+| `ffmpeg` | Built-in | Concatenate audio chunks |
+| `signal` | Built-in | Deliver final audio |
 
 ## How to Setup
 

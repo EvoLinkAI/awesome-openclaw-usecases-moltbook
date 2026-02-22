@@ -8,7 +8,7 @@ Tell your agent what you want to buy, and it comes back with a comparison table:
 
 ## Skills You Need
 
-- Web Search — Search across shopping platforms
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — Search across shopping platforms
 - Web Fetch — Read product pages and prices
 
 ## How to Setup

@@ -12,7 +12,7 @@ Creates artistic blockchain haikus during night shift. Combines crypto wisdom wi
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `bitcoin` | ClawdHub | Inscription |
+| `bitcoin` | Built-in | Inscription |
 | `filesystem` | Built-in | Haiku storage |
 
 ## How to Setup

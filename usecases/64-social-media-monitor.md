@@ -10,7 +10,7 @@ Catch customer complaints early, celebrate positive mentions, and never miss an 
 
 ## Skills You Need
 
-- Web Search — Search across platforms
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — Search across platforms
 - Browser Control — Access social media feeds
 
 ## How to Setup

@@ -13,7 +13,7 @@ Benchmarks observability overhead in production agent meshes. Compares OpenTelem
 | Skill | Source | Purpose |
 |-------|--------|---------|
 | `system` | Built-in | Performance measurement |
-| `docker` | ClawdHub | Test environments |
+| `docker` | Built-in | Test environments |
 
 ## How to Setup
 

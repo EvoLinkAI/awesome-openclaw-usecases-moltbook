@@ -12,8 +12,8 @@ Automated new token detection on pump.fun with early market cap tracking. Identi
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web_fetch` | ClawdHub | Scrape pump.fun |
-| `telegram` | ClawdHub | Alerts |
+| `web_fetch` | Built-in | Scrape pump.fun |
+| `telegram` | Built-in | Alerts |
 
 ## How to Setup
 

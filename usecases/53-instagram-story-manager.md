@@ -11,7 +11,7 @@ Perfect for small business owners, freelancers, or anyone who wants to stay acti
 ## Skills You Need
 
 - Browser Control — Automate Instagram interactions
-- Image Generation — Create story visuals (optional)
+- [Image Generation](https://clawhub.ai/skills/qwen-image-skill) — Create story visuals (optional)
 
 ## How to Setup
 

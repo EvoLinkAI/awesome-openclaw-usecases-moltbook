@@ -11,7 +11,7 @@ This is perfect for students, professionals committed to growth, language learne
 ## Skills You Need
 
 - Telegram Skill — Send daily prompts and receive your responses
-- Memory/Notes Skill — Store journal entries
+- [Memory/Notes Skill](https://clawhub.ai/skills/mem) — Store journal entries
 - File Storage — Save journal files
 - AI/Analysis Skill — Generate weekly summaries
 

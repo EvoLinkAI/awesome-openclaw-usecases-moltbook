@@ -10,7 +10,7 @@ One message in, a complete trip plan out.
 
 ## Skills You Need
 
-- Web Search — Research destinations, prices, reviews
+- [Web Search](https://clawhub.ai/skills/searching-assistant) — Research destinations, prices, reviews
 - Web Fetch — Read travel blogs and booking sites
 
 ## How to Setup

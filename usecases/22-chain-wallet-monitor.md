@@ -12,8 +12,8 @@ On-chain wallet surveillance tracking unusual movements, new contract deployment
 
 | Skill | Source | Purpose |
 |-------|--------|---------|
-| `web3` | ClawdHub | Blockchain queries |
-| `telegram` | ClawdHub | Alerts |
+| [`web3`](https://clawhub.ai/skills/claw-fi) | ClawHub | Blockchain queries |
+| `telegram` | Built-in | Alerts |
 
 ## How to Setup
 
