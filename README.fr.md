@@ -25,6 +25,7 @@ Une collection de **70 cas d'utilisation concrets et non répétitifs** pour les
 ## Table des Matières
 
 - [Aperçu](#aperçu)
+- [⭐ Vie Quotidienne (20)](#-vie-quotidienne-20)
 - [Conversion de Contenu (7)](#conversion-de-contenu-7)
 - [Gestion de la Mémoire (8)](#gestion-de-la-mémoire-8)
 - [Automatisation Nocturne (12)](#automatisation-nocturne-12)
@@ -32,6 +33,7 @@ Une collection de **70 cas d'utilisation concrets et non répétitifs** pour les
 - [Surveillance de Sécurité (10)](#surveillance-de-sécurité-10)
 - [Développement d'Outils (2)](#développement-doutils-2)
 - [Contribuer](#contribuer)
+- [Licence](#licence)
 
 ---
 

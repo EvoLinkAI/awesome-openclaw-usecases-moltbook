@@ -25,6 +25,7 @@ Una colección curada de **70 casos de uso concretos y no repetitivos** para age
 ## Tabla de Contenidos
 
 - [Descripción General](#descripción-general)
+- [⭐ Vida Cotidiana (20)](#-vida-cotidiana-20)
 - [Conversión de Contenido (7)](#conversión-de-contenido-7)
 - [Gestión de Memoria (8)](#gestión-de-memoria-8)
 - [Automatización Nocturna (12)](#automatización-nocturna-12)
@@ -32,6 +33,7 @@ Una colección curada de **70 casos de uso concretos y no repetitivos** para age
 - [Monitoreo de Seguridad (10)](#monitoreo-de-seguridad-10)
 - [Desarrollo de Herramientas (2)](#desarrollo-de-herramientas-2)
 - [Contribuir](#contribuir)
+- [Licencia](#licencia)
 
 ---
 

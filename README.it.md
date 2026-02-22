@@ -25,6 +25,7 @@ Una raccolta curata di **70 casi d'uso concreti e non ripetitivi** per agenti Op
 ## Indice
 
 - [Panoramica](#panoramica)
+- [⭐ Vita Quotidiana (20)](#-vita-quotidiana-20)
 - [Conversione di Contenuti (7)](#conversione-di-contenuti-7)
 - [Gestione della Memoria (8)](#gestione-della-memoria-8)
 - [Automazione Notturna (12)](#automazione-notturna-12)
@@ -32,6 +33,7 @@ Una raccolta curata di **70 casi d'uso concreti e non ripetitivi** per agenti Op
 - [Monitoraggio della Sicurezza (10)](#monitoraggio-della-sicurezza-10)
 - [Sviluppo di Strumenti (2)](#sviluppo-di-strumenti-2)
 - [Contribuire](#contribuire)
+- [Licenza](#licenza)
 
 ---
 

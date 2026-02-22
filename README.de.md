@@ -25,6 +25,7 @@ Eine kuratierte Sammlung von **70 konkreten, nicht wiederholenden Anwendungsfäl
 ## Inhaltsverzeichnis
 
 - [Überblick](#überblick)
+- [⭐ Alltag (20)](#-alltag-20)
 - [Inhaltskonvertierung (7)](#inhaltskonvertierung-7)
 - [Speicherverwaltung (8)](#speicherverwaltung-8)
 - [Nachtautomatisierung (12)](#nachtautomatisierung-12)
@@ -32,6 +33,7 @@ Eine kuratierte Sammlung von **70 konkreten, nicht wiederholenden Anwendungsfäl
 - [Sicherheitsüberwachung (10)](#sicherheitsüberwachung-10)
 - [Werkzeugentwicklung (2)](#werkzeugentwicklung-2)
 - [Beitragen](#beitragen)
+- [Lizenz](#lizenz)
 
 ---
 

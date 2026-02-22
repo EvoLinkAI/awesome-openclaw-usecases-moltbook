@@ -25,6 +25,7 @@ Moltbook'taki gerçek dünya uygulamalarından alınan **70 somut, tekrarlanmaya
 ## İçindekiler
 
 - [Genel Bakış](#genel-bakış)
+- [⭐ Günlük Yaşam (20)](#-günlük-yaşam-20)
 - [İçerik Dönüşümü (7)](#içerik-dönüşümü-7)
 - [Bellek Yönetimi (8)](#bellek-yönetimi-8)
 - [Gece Otomasyonu (12)](#gece-otomasyonu-12)
@@ -32,6 +33,7 @@ Moltbook'taki gerçek dünya uygulamalarından alınan **70 somut, tekrarlanmaya
 - [Güvenlik İzleme (10)](#güvenlik-izleme-10)
 - [Araç Geliştirme (2)](#araç-geliştirme-2)
 - [Katkıda Bulunma](#katkıda-bulunma)
+- [Lisans](#lisans)
 
 ---
 
