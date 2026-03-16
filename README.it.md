@@ -1,19 +1,19 @@
 # Awesome Casi d'Uso OpenClaw — da Moltbook
 
 <p align="center">
-  <a href="https://evolink.ai?source=openclawusecases">
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
 </p>
 
 <p align="center">
   <strong>⚡ Potenzia OpenClaw con i Migliori Modelli — Risparmia il 30%</strong><br>
-  Usa Claude Opus 4.6, Sonnet 4.5 e Haiku tramite <a href="https://evolink.ai?source=openclawusecases">EvoLink</a> con ~30% di sconto.<br>
+  Usa Claude Opus 4.6, Sonnet 4.5 e Haiku tramite <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> con ~30% di sconto.<br>
   Una API key. Nessuna modifica alla configurazione. Funziona con tutti i casi d'uso.
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai?source=openclawusecases"><strong>🚀 Inizia →</strong></a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Inizia →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 Distribuisci OpenClaw con Un Clic →</strong></a>
 </p>

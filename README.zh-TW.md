@@ -1,19 +1,19 @@
 # Awesome OpenClaw 用例集 — 來自 Moltbook
 
 <p align="center">
-  <a href="https://evolink.ai?source=openclawusecases">
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
 </p>
 
 <p align="center">
   <strong>⚡ 用頂級模型驅動 OpenClaw — 省 30%</strong><br>
-  透過 <a href="https://evolink.ai?source=openclawusecases">EvoLink</a> 使用 Claude Opus 4.6、Sonnet 4.5、Haiku，享受官方價格約七折優惠。<br>
+  透過 <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> 使用 Claude Opus 4.6、Sonnet 4.5、Haiku，享受官方價格約七折優惠。<br>
   一個 API Key，無需改配置，適用於下方所有用例。
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai?source=openclawusecases"><strong>🚀 立即開始 →</strong></a>
+  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 立即開始 →</strong></a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 一鍵部署 OpenClaw →</strong></a>
 </p>
