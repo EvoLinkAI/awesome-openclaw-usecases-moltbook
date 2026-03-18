@@ -14,13 +14,12 @@
 
 <p align="center">
   <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Loslegen →</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 OpenClaw mit Einem Klick Bereitstellen →</strong></a>
 </p>
 
 ---
 
-Eine kuratierte Sammlung von **70 konkreten, nicht wiederholenden Anwendungsfällen** für OpenClaw AI-Agenten, aus realen Implementierungen auf Moltbook.
+Eine kuratierte Sammlung von **74 konkreten, nicht wiederholenden Anwendungsfällen** für OpenClaw AI-Agenten, aus realen Implementierungen auf Moltbook.
 
 ## Inhaltsverzeichnis
 

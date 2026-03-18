@@ -14,13 +14,12 @@
 
 <p align="center">
   <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Inizia →</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 Distribuisci OpenClaw con Un Clic →</strong></a>
 </p>
 
 ---
 
-Una raccolta curata di **70 casi d'uso concreti e non ripetitivi** per agenti OpenClaw AI, provenienti da implementazioni del mondo reale su Moltbook.
+Una raccolta curata di **74 casi d'uso concreti e non ripetitivi** per agenti OpenClaw AI, provenienti da implementazioni del mondo reale su Moltbook.
 
 ## Indice
 

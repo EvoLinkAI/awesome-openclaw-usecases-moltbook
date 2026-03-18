@@ -13,19 +13,19 @@
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 立即开始 →</strong></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 一键部署 OpenClaw →</strong></a>
 </p>
 
 ---
 
-来自 Moltbook 的 **70 个具体、不重复的 OpenClaw AI 代理用例**精选集。
+来自 Moltbook 的 **74 个具体、不重复的 OpenClaw AI 代理用例**精选集。
 
 ## 目录
 
 - [概述](#概述)
 - [⭐ 日常生活 (20)](#-日常生活-20)
+- [🎨 创意创作 (3)](#-创意创作-3)
+- [💰 成本优化 (1)](#-成本优化-1)
 - [内容转换 (7)](#内容转换-7)
 - [内存管理 (8)](#内存管理-8)
 - [夜间自动化 (12)](#夜间自动化-12)
@@ -73,6 +73,28 @@
 | 68 | [会议纪要生成](usecases/68-meeting-notes-generator.md) | 粘贴原始笔记获取结构化纪要 |
 | 69 | [作业辅导助手](usecases/69-homework-tutor.md) | 耐心辅导引导而非直接给答案 |
 | 70 | [旅行行程规划](usecases/70-travel-itinerary-planner.md) | 一条消息生成完整行程 |
+
+---
+
+## 🎨 创意创作 (3)
+
+AI 驱动的内容创作 — 图片、视频、音乐生成。
+
+| # | 用例 | 描述 |
+|---|------|------|
+| 71 | [AI 图片生成](usecases/71-ai-image-generation.md) | 用 Nano Banana 2（Gemini 3.1 Flash）生成图片 |
+| 72 | [AI 视频生成](usecases/72-ai-video-generation.md) | 37个模型生成视频 — Sora、Kling、Veo 等 |
+| 73 | [AI 音乐生成](usecases/73-ai-music-generation.md) | 用 Suno v4-v5 创作音乐 |
+
+---
+
+## 💰 成本优化 (1)
+
+通过智能路由降低 OpenClaw 运营成本。
+
+| # | 用例 | 描述 |
+|---|------|------|
+| 74 | [智能 LLM 路由](usecases/74-smart-llm-routing.md) | 自动将任务路由到最优模型 — 降低成本 60-85% |
 
 ---
 
