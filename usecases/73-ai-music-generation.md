@@ -17,7 +17,7 @@ Perfect for content creators, podcasters, video producers, game developers, and 
 ## How to Setup
 
 ### Prerequisites
-- An EvoLink API key ([sign up at evolink.ai/signup](https://evolink.ai))
+- An EvoLink API key ([sign up at evolink.ai/signup/signup](https://evolink.ai))
 - OpenClaw with Telegram or Signal connected
 
 ### Installation

@@ -1,19 +1,19 @@
 # Awesome Cas d'Utilisation OpenClaw — de Moltbook
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
 </p>
 
 <p align="center">
   <strong>⚡ Alimentez OpenClaw avec les Meilleurs Modèles — Économisez 30%</strong><br>
-  Utilisez Claude Opus 4.6, Sonnet 4.5 et Haiku via <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> à ~30% de réduction.<br>
+  Utilisez Claude Opus 4.6, Sonnet 4.5 et Haiku via <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> à ~30% de réduction.<br>
   Une seule clé API. Aucune modification de configuration. Compatible avec tous les cas ci-dessous.
 </p>
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Commencer →</strong></a>
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase"><strong>🚀 Commencer →</strong></a>
   <a href="https://github.com/EvoLinkAI/openclaw-manager"><strong>🦞 Déployez OpenClaw en Un Clic →</strong></a>
 </p>
 

@@ -1,14 +1,14 @@
 # Awesome OpenClaw 사용 사례 — Moltbook에서
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
 </p>
 
 <p align="center">
   <strong>⚡ 최고 모델로 OpenClaw 구동 — 30% 절약</strong><br>
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a>를 통해 Claude Opus 4.6, Sonnet 4.5, Haiku를 공식 가격의 ~30% 할인으로 사용하세요.<br>
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a>를 통해 Claude Opus 4.6, Sonnet 4.5, Haiku를 공식 가격의 ~30% 할인으로 사용하세요.<br>
   API 키 하나. 설정 변경 없음. 아래 모든 사용 사례와 호환.
 </p>
 

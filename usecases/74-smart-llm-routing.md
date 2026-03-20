@@ -17,7 +17,7 @@ Perfect for anyone running OpenClaw agents at scale — developers, businesses, 
 ## How to Setup
 
 ### Prerequisites
-- An EvoLink API key ([sign up at evolink.ai/signup](https://evolink.ai))
+- An EvoLink API key ([sign up at evolink.ai/signup/signup](https://evolink.ai))
 - OpenClaw configured with at least one agent
 
 ### Installation

@@ -1,14 +1,14 @@
 # Awesome OpenClaw 用例集 — 来自 Moltbook
 
 <p align="center">
-  <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
+  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">
     <img src="assets/evolink-logo.png" alt="EvoLink" width="120">
   </a>
 </p>
 
 <p align="center">
   <strong>⚡ 用顶级模型驱动 OpenClaw — 省 30%</strong><br>
-  通过 <a href="https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> 使用 Claude Opus 4.6、Sonnet 4.5、Haiku，享受官方价格约七折优惠。<br>
+  通过 <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook?utm_source=github&utm_medium=readme&utm_campaign=openclawusecase">EvoLink</a> 使用 Claude Opus 4.6、Sonnet 4.5、Haiku，享受官方价格约七折优惠。<br>
   一个 API Key，无需改配置，适用于下方所有用例。
 </p>
 
