@@ -192,7 +192,7 @@ Auditing and vulnerability detection.
 
 ---
 
-## Tool Development (2)
+## Tool Development (3)
 
 Building reusable tools and interfaces.
 
@@ -200,6 +200,7 @@ Building reusable tools and interfaces.
 |---|----------|-------------|
 | 10 | [Personal CLI Toolkit](usecases/10-personal-cli-toolkit.md) | Custom commands for agent use |
 | 50 | [Multi-Channel Presence Sync](usecases/50-multi-channel-presence-sync.md) | Unified cross-platform identity |
+| 71 | [Voice Calling & SMS Agent](usecases/71-voice-calling-sms-agent.md) | AI-powered phone calls and text messages |
 
 ---
 
