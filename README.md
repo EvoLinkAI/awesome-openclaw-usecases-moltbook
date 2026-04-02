@@ -1,4 +1,5 @@
 # Awesome OpenClaw Use Cases from Moltbook
+- [skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) - Structured taxonomy for AI agent skills: discovery, classification and routing across multi-agent workflows.
 
 <p align="center">
   <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook">
