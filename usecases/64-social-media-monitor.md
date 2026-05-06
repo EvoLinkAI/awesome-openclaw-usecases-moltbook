@@ -10,14 +10,16 @@ Catch customer complaints early, celebrate positive mentions, and never miss an 
 
 ## Skills You Need
 
+- [TweetClaw](https://clawhub.ai/plugins/%40xquik%2Ftweetclaw) - Structured X/Twitter search, account monitors, and mention alerts through OpenClaw
 - [Web Search](https://clawhub.ai/skills/searching-assistant) — Search across platforms
-- Browser Control — Access social media feeds
+- Browser Control — Access non-X social media feeds when no structured plugin exists
 
 ## How to Setup
 
 ### Prerequisites
 - Telegram bot connected to OpenClaw
 - Keywords/names to track
+- Optional for X/Twitter: install TweetClaw with `openclaw plugins install @xquik/tweetclaw`
 
 ### Prompt Template
 ```
@@ -30,7 +32,7 @@ Keywords to track:
 - [Competitor names — optional]
 
 Platforms to check:
-- X/Twitter (search for keywords)
+- X/Twitter (use TweetClaw explore/tweetclaw if configured; otherwise use web search)
 - Reddit (relevant subreddits)
 - Hacker News (if tech-related)
 
@@ -61,6 +63,11 @@ ALERT immediately (don't wait for daily report) if:
 - A negative mention gets 50+ likes/retweets
 - Someone influential (10k+ followers) mentions us
 - A potential PR crisis is brewing
+
+TweetClaw safety:
+- Use read-only X/Twitter search or monitor endpoints for detection
+- Ask before creating recurring monitors or webhooks
+- Do not auto-reply, like, retweet, follow, or DM from monitoring results
 ```
 
 ### Configuration

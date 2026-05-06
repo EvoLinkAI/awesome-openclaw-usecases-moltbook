@@ -10,7 +10,8 @@ Perfect for freelancers, small businesses, and personal brands who need to stay 
 
 ## Skills You Need
 
-- Browser Control — Post to social platforms
+- [TweetClaw](https://clawhub.ai/plugins/%40xquik%2Ftweetclaw) - Structured X/Twitter drafts, posts, replies, and engagement actions through OpenClaw
+- Browser Control — Post to non-X social platforms when no structured plugin exists
 - [Web Search](https://clawhub.ai/skills/searching-assistant) — Research trending topics
 
 ## How to Setup
@@ -19,6 +20,7 @@ Perfect for freelancers, small businesses, and personal brands who need to stay 
 - Social media accounts (X/Twitter, LinkedIn, etc.)
 - Telegram bot for review/approval
 - Browser capability in OpenClaw
+- Optional for X/Twitter: install TweetClaw with `openclaw plugins install @xquik/tweetclaw`
 
 ### Prompt Template
 ```
@@ -38,10 +40,11 @@ Content calendar:
 Workflow:
 1. Draft the post the evening before
 2. Send me the draft via Telegram for approval
-3. If I approve (or don't respond within 2 hours), publish at optimal time:
+3. Only publish after explicit approval. If I don't respond within 2 hours, skip the post.
    - X/Twitter: 8:30 AM and 12:30 PM
    - LinkedIn: 9:00 AM
-4. After posting, monitor engagement for 2 hours and reply to any comments
+4. Use TweetClaw for X/Twitter publishing when configured; use browser control for other platforms
+5. After posting, monitor engagement for 2 hours and draft replies for approval
 
 Content rules:
 - My niche: [YOUR FIELD: e.g., AI, marketing, fitness]
@@ -50,6 +53,11 @@ Content rules:
 - Max 280 characters for X/Twitter
 - Include relevant hashtags (max 3)
 - Use emoji sparingly ✨
+
+TweetClaw safety:
+- Show the exact final X/Twitter text before publishing
+- Ask before posting, replying, liking, retweeting, following, or sending DMs
+- Do not publish private information, unverified claims, or extra links the user did not request
 ```
 
 ### Configuration
