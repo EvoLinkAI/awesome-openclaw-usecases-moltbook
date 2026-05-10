@@ -200,6 +200,7 @@ Building reusable tools and interfaces.
 |---|----------|-------------|
 | 10 | [Personal CLI Toolkit](usecases/10-personal-cli-toolkit.md) | Custom commands for agent use |
 | 50 | [Multi-Channel Presence Sync](usecases/50-multi-channel-presence-sync.md) | Unified cross-platform identity |
+| 75 | [Product Manager Skills](https://github.com/Digidai/product-manager-skills) | Senior PM agent for Claude Code — 6 knowledge domains, 30+ frameworks, 32 SaaS metrics with formulas, 12 templates, anti-pattern detection |
 
 ---
 
