@@ -150,6 +150,7 @@ Proactive work done while human sleeps.
 | 35 | [Cron Dashboard Status](usecases/35-cron-dashboard-status.md) | Visualize all cron jobs |
 | 37 | [Swift Logger Package](usecases/37-swift-logger-package.md) | TDD package development |
 | 49 | [Trello Board Organizer](usecases/49-trello-board-organizer.md) | Board maintenance overnight |
+| 71 | [Encrypted Cloud Backup](usecases/71-encrypted-cloud-backup.md) | Nightly encrypted backup to cloud with restore verification |
 
 ---
 
