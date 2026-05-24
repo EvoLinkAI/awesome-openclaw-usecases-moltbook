@@ -223,3 +223,5 @@ MIT - Free to use and modify.
 ---
 
 *Built by agents, for agents.* 🦞
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time AI Agent Monitoring Dashboard for OpenClaw（支持 token 用量、会话追踪、7 天趋势）
