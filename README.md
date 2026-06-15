@@ -18,19 +18,14 @@
 
 ---
 
-## EvoLink Quick Start
+## Start Here
 
 Turn OpenClaw use cases into routed model calls and reusable agent workflows:
 
-- Model catalog: [EvoLink models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
-- API key: [create an EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
-- Model list for agents: [openclaw-models-list](https://github.com/EvoLinkAI/openclaw-models-list)
-- Media MCP: [evolink-media-mcp](https://github.com/EvoLinkAI/evolink-media-mcp)
-
-```bash
-export EVOLINK_API_KEY="your_key_here"
-openclaw skills add https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw
-```
+- [Browse EvoLink models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
+- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
+- [Open the OpenClaw model list](https://github.com/EvoLinkAI/openclaw-models-list)
+- [Install the EvoLink Media MCP server](https://github.com/EvoLinkAI/evolink-media-mcp)
 
 ---
 
