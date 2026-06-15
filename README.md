@@ -18,14 +18,33 @@
 
 ---
 
-## Start Here
+## EvoLink Quick Start
 
 Turn OpenClaw use cases into routed model calls and reusable agent workflows:
 
 - [Browse EvoLink models](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
+- [Read EvoLink API docs](https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
 - [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=awesome-openclaw-usecases-moltbook)
 - [Open the OpenClaw model list](https://github.com/EvoLinkAI/openclaw-models-list)
 - [Install the EvoLink Media MCP server](https://github.com/EvoLinkAI/evolink-media-mcp)
+
+```bash
+export EVOLINK_API_KEY="your_key_here"
+
+curl --request POST \
+  --url https://direct.evolink.ai/v1/chat/completions \
+  --header "Authorization: Bearer ${EVOLINK_API_KEY}" \
+  --header 'Content-Type: application/json' \
+  --data '{
+    "model": "claude-fable-5",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Turn this OpenClaw use case into a step-by-step agent workflow."
+      }
+    ]
+  }'
+```
 
 ---
 
