@@ -232,6 +232,7 @@ Building reusable tools and interfaces.
 |---|----------|-------------|
 | 10 | [Personal CLI Toolkit](usecases/10-personal-cli-toolkit.md) | Custom commands for agent use |
 | 50 | [Multi-Channel Presence Sync](usecases/50-multi-channel-presence-sync.md) | Unified cross-platform identity |
+| [AI Group Call](https://aigroupcall.app) | - | Live voice call with up to eight AI agents around one goal — they debate, brainstorm and hand you a summary and action items. |
 
 ---
 
